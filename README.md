@@ -12,7 +12,8 @@ The results are presented in an Google Sheets dashboard:
 
 **Work in Progress**
 
-The dashboard is currently being updated. Data for the 2026 season will be added after the 2026 World Championship.
+The dashboard is currently being updated, including a redesign of the visual presentation and data representation. Data for the 2026 season will be added after the 2026 World Championship.
+Visual
 
 ## Repository Structure
 
