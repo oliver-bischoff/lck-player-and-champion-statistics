@@ -21,3 +21,4 @@ Visual
   - `Data/` – Stored player statistics and collected data
 - `Role_Calc(old)/` – Code for calculating player performance scores (Player Score will be removed)
 - `experiments/` – Experimental code and tests
+- `Excel_Data` - Manually collected and organized data
