@@ -1,0 +1,3206 @@
+{
+  "9503": {
+    "matchId": 9503,
+    "slug": "hanwha-life-esports-vs-t1-2026-01-16",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs T1 | LCK 2026 Cup | January 16th, 2026 | RFT.GG"
+  },
+  "9523": {
+    "matchId": 9523,
+    "slug": "nongshim-redforce-vs-hanwha-life-esports-2026-01-18",
+    "eventId": "1880",
+    "title": "Nongshim RedForce vs Hanwha Life Esports | LCK 2026 Cup | January 18th, 2026 | RFT.GG"
+  },
+  "9555": {
+    "matchId": 9555,
+    "slug": "brion-vs-hanwha-life-esports-2026-01-22",
+    "eventId": "1880",
+    "title": "BRION vs Hanwha Life Esports | LCK 2026 Cup | January 22nd, 2026 | RFT.GG"
+  },
+  "9567": {
+    "matchId": 9567,
+    "slug": "hanwha-life-esports-vs-soopers-2026-01-24",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs SOOPers | LCK 2026 Cup | January 24th, 2026 | RFT.GG"
+  },
+  "9647": {
+    "matchId": 9647,
+    "slug": "hanwha-life-esports-vs-gen.g-esports-2026-02-01",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs Gen.G Esports | LCK 2026 Cup | February 1st, 2026 | RFT.GG"
+  },
+  "12540": {
+    "matchId": 12540,
+    "slug": "hanwha-life-esports-vs-brion-2026-04-01",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs BRION | LCK 2026 Season | April 1st, 2026 | RFT.GG"
+  },
+  "12547": {
+    "matchId": 12547,
+    "slug": "t1-vs-hanwha-life-esports-2026-04-04",
+    "eventId": "1880",
+    "title": "T1 vs Hanwha Life Esports | LCK 2026 Season | April 4th, 2026 | RFT.GG"
+  },
+  "12551": {
+    "matchId": 12551,
+    "slug": "dplus-vs-hanwha-life-esports-2026-04-08",
+    "eventId": "1880",
+    "title": "Dplus vs Hanwha Life Esports | LCK 2026 Season | April 8th, 2026 | RFT.GG"
+  },
+  "12556": {
+    "matchId": 12556,
+    "slug": "hanwha-life-esports-vs-fearx-2026-04-10",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs FEARX | LCK 2026 Season | April 10th, 2026 | RFT.GG"
+  },
+  "12564": {
+    "matchId": 12564,
+    "slug": "soopers-vs-hanwha-life-esports-2026-04-16",
+    "eventId": "1880",
+    "title": "SOOPers vs Hanwha Life Esports | LCK 2026 Season | April 16th, 2026 | RFT.GG"
+  },
+  "12567": {
+    "matchId": 12567,
+    "slug": "hanwha-life-esports-vs-gen.g-esports-2026-04-18",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs Gen.G Esports | LCK 2026 Season | April 18th, 2026 | RFT.GG"
+  },
+  "12572": {
+    "matchId": 12572,
+    "slug": "hanwha-life-esports-vs-nongshim-redforce-2026-04-22",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs Nongshim RedForce | LCK 2026 Season | April 22nd, 2026 | RFT.GG"
+  },
+  "12576": {
+    "matchId": 12576,
+    "slug": "hanwha-life-esports-vs-drx-2026-04-24",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs DRX | LCK 2026 Season | April 24th, 2026 | RFT.GG"
+  },
+  "12582": {
+    "matchId": 12582,
+    "slug": "kt-rolster-vs-hanwha-life-esports-2026-04-29",
+    "eventId": "1880",
+    "title": "KT Rolster vs Hanwha Life Esports | LCK 2026 Season | April 29th, 2026 | RFT.GG"
+  },
+  "12586": {
+    "matchId": 12586,
+    "slug": "hanwha-life-esports-vs-t1-2026-05-01",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs T1 | LCK 2026 Season | May 1st, 2026 | RFT.GG"
+  },
+  "12467": {
+    "matchId": 12467,
+    "slug": "hanwha-life-esports-vs-soopers-2026-05-05",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs SOOPers | Esports World Cup 2026 Korea | May 5th, 2026 | RFT.GG"
+  },
+  "12591": {
+    "matchId": 12591,
+    "slug": "hanwha-life-esports-vs-soopers-2026-05-06",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs SOOPers | LCK 2026 Season | May 6th, 2026 | RFT.GG"
+  },
+  "12599": {
+    "matchId": 12599,
+    "slug": "drx-vs-hanwha-life-esports-2026-05-10",
+    "eventId": "1880",
+    "title": "DRX vs Hanwha Life Esports | LCK 2026 Season | May 10th, 2026 | RFT.GG"
+  },
+  "12473": {
+    "matchId": 12473,
+    "slug": "hanwha-life-esports-vs-dplus-2026-05-12",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs Dplus | Esports World Cup 2026 Korea | May 12th, 2026 | RFT.GG"
+  },
+  "12604": {
+    "matchId": 12604,
+    "slug": "hanwha-life-esports-vs-dplus-2026-05-15",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs Dplus | LCK 2026 Season | May 15th, 2026 | RFT.GG"
+  },
+  "12608": {
+    "matchId": 12608,
+    "slug": "hanwha-life-esports-vs-kt-rolster-2026-05-17",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs KT Rolster | LCK 2026 Season | May 17th, 2026 | RFT.GG"
+  },
+  "12476": {
+    "matchId": 12476,
+    "slug": "hanwha-life-esports-vs-brion-2026-05-19",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs BRION | Esports World Cup 2026 Korea | May 19th, 2026 | RFT.GG"
+  },
+  "12612": {
+    "matchId": 12612,
+    "slug": "fearx-vs-hanwha-life-esports-2026-05-21",
+    "eventId": "1880",
+    "title": "FEARX vs Hanwha Life Esports | LCK 2026 Season | May 21st, 2026 | RFT.GG"
+  },
+  "12617": {
+    "matchId": 12617,
+    "slug": "nongshim-redforce-vs-hanwha-life-esports-2026-05-23",
+    "eventId": "1880",
+    "title": "Nongshim RedForce vs Hanwha Life Esports | LCK 2026 Season | May 23rd, 2026 | RFT.GG"
+  },
+  "12477": {
+    "matchId": 12477,
+    "slug": "nongshim-redforce-vs-hanwha-life-esports-2026-05-25",
+    "eventId": "1880",
+    "title": "Nongshim RedForce vs Hanwha Life Esports | Esports World Cup 2026 Korea | May 25th, 2026 | RFT.GG"
+  },
+  "12479": {
+    "matchId": 12479,
+    "slug": "dplus-vs-hanwha-life-esports-2026-05-26",
+    "eventId": "1880",
+    "title": "Dplus vs Hanwha Life Esports | Esports World Cup 2026 Korea | May 26th, 2026 | RFT.GG"
+  },
+  "12620": {
+    "matchId": 12620,
+    "slug": "gen.g-esports-vs-hanwha-life-esports-2026-05-27",
+    "eventId": "1880",
+    "title": "Gen.G Esports vs Hanwha Life Esports | LCK 2026 Season | May 27th, 2026 | RFT.GG"
+  },
+  "12628": {
+    "matchId": 12628,
+    "slug": "brion-vs-hanwha-life-esports-2026-05-31",
+    "eventId": "1880",
+    "title": "BRION vs Hanwha Life Esports | LCK 2026 Season | May 31st, 2026 | RFT.GG"
+  },
+  "68800": {
+    "matchId": 68800,
+    "slug": "hanwha-life-esports-vs-t1-2026-06-12",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs T1 | LCK 2026 Road to MSI | June 12th, 2026 | RFT.GG"
+  },
+  "68844": {
+    "matchId": 68844,
+    "slug": "hanwha-life-esports-vs-secret-whales-2026-07-03",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs Secret Whales | MSI 2026 | July 3rd, 2026 | RFT.GG"
+  },
+  "68849": {
+    "matchId": 68849,
+    "slug": "hanwha-life-esports-vs-g2-esports-2026-07-05",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs G2 Esports | MSI 2026 | July 5th, 2026 | RFT.GG"
+  },
+  "68853": {
+    "matchId": 68853,
+    "slug": "bilibili-gaming-vs-hanwha-life-esports-2026-07-09",
+    "eventId": "1880",
+    "title": "Bilibili Gaming vs Hanwha Life Esports | MSI 2026 | July 9th, 2026 | RFT.GG"
+  },
+  "68854": {
+    "matchId": 68854,
+    "slug": "hanwha-life-esports-vs-lyon-2026-07-11",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs LYON | MSI 2026 | July 11th, 2026 | RFT.GG"
+  },
+  "68855": {
+    "matchId": 68855,
+    "slug": "bilibili-gaming-vs-hanwha-life-esports-2026-07-12",
+    "eventId": "1880",
+    "title": "Bilibili Gaming vs Hanwha Life Esports | MSI 2026 | July 12th, 2026 | RFT.GG"
+  },
+  "12401": {
+    "matchId": 12401,
+    "slug": "hanwha-life-esports-vs-mibr.los-2026-07-15",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs MIBR.LOS | Esports World Cup 2026 | July 15th, 2026 | RFT.GG"
+  },
+  "12404": {
+    "matchId": 12404,
+    "slug": "hanwha-life-esports-vs-jd-gaming-2026-07-16",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs JD Gaming | Esports World Cup 2026 | July 16th, 2026 | RFT.GG"
+  },
+  "12406": {
+    "matchId": 12406,
+    "slug": "hanwha-life-esports-vs-t1-2026-07-17",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs T1 | Esports World Cup 2026 | July 17th, 2026 | RFT.GG"
+  },
+  "69233": {
+    "matchId": 69233,
+    "slug": "dplus-vs-hanwha-life-esports-2026-07-27",
+    "eventId": "1880",
+    "title": "Dplus vs Hanwha Life Esports | KeSPA Cup 2026 | July 27th, 2026 | RFT.GG"
+  },
+  "69236": {
+    "matchId": 69236,
+    "slug": "hanwha-life-esports-vs-drx-2026-07-27",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs DRX | KeSPA Cup 2026 | July 27th, 2026 | RFT.GG"
+  },
+  "69471": {
+    "matchId": 69471,
+    "slug": "hanwha-life-esports-vs-dplus-2026-07-30",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs Dplus | LCK 2026 Season | July 30th, 2026 | RFT.GG"
+  },
+  "69477": {
+    "matchId": 69477,
+    "slug": "kt-rolster-vs-hanwha-life-esports-2026-08-02",
+    "eventId": "1880",
+    "title": "KT Rolster vs Hanwha Life Esports | LCK 2026 Season | August 2nd, 2026 | RFT.GG"
+  },
+  "69530": {
+    "matchId": 69530,
+    "slug": "t1-vs-hanwha-life-esports-2026-08-04",
+    "eventId": "1880",
+    "title": "T1 vs Hanwha Life Esports | KeSPA Cup 2026 | August 4th, 2026 | RFT.GG"
+  },
+  "69479": {
+    "matchId": 69479,
+    "slug": "hanwha-life-esports-vs-gen.g-esports-2026-08-05",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs Gen.G Esports | LCK 2026 Season | August 5th, 2026 | RFT.GG"
+  },
+  "69484": {
+    "matchId": 69484,
+    "slug": "t1-vs-hanwha-life-esports-2026-08-08",
+    "eventId": "1880",
+    "title": "T1 vs Hanwha Life Esports | LCK 2026 Season | August 8th, 2026 | RFT.GG"
+  },
+  "69248": {
+    "matchId": 69248,
+    "slug": "hanwha-life-esports-vs-gen.g-esports-2026-08-10",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs Gen.G Esports | KeSPA Cup 2026 | August 10th, 2026 | RFT.GG"
+  },
+  "69491": {
+    "matchId": 69491,
+    "slug": "gen.g-esports-vs-hanwha-life-esports-2026-08-13",
+    "eventId": "1880",
+    "title": "Gen.G Esports vs Hanwha Life Esports | LCK 2026 Season | August 13th, 2026 | RFT.GG"
+  },
+  "69494": {
+    "matchId": 69494,
+    "slug": "hanwha-life-esports-vs-kt-rolster-2026-08-15",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs KT Rolster | LCK 2026 Season | August 15th, 2026 | RFT.GG"
+  },
+  "69500": {
+    "matchId": 69500,
+    "slug": "dplus-vs-hanwha-life-esports-2026-08-20",
+    "eventId": "1880",
+    "title": "Dplus vs Hanwha Life Esports | LCK 2026 Season | August 20th, 2026 | RFT.GG"
+  },
+  "69506": {
+    "matchId": 69506,
+    "slug": "hanwha-life-esports-vs-t1-2026-08-23",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs T1 | LCK 2026 Season | August 23rd, 2026 | RFT.GG"
+  },
+  "69372": {
+    "matchId": 69372,
+    "slug": "hanwha-life-esports-vs-t1-2026-09-02",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs T1 | LCK 2026 Season | September 2nd, 2026 | RFT.GG"
+  },
+  "69375": {
+    "matchId": 69375,
+    "slug": "gen.g-esports-vs-hanwha-life-esports-2026-09-05",
+    "eventId": "1880",
+    "title": "Gen.G Esports vs Hanwha Life Esports | LCK 2026 Season | September 5th, 2026 | RFT.GG"
+  },
+  "69376": {
+    "matchId": 69376,
+    "slug": "hanwha-life-esports-vs-t1-2026-09-12",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs T1 | LCK 2026 Season | September 12th, 2026 | RFT.GG"
+  },
+  "69377": {
+    "matchId": 69377,
+    "slug": "gen.g-esports-vs-hanwha-life-esports-2026-09-13",
+    "eventId": "1880",
+    "title": "Gen.G Esports vs Hanwha Life Esports | LCK 2026 Season | September 13th, 2026 | RFT.GG"
+  },
+  "14015": {
+    "matchId": 14015,
+    "slug": "gen.g-esports-vs-hanwha-life-esports-2025-01-17",
+    "eventId": "1880",
+    "title": "Gen.G Esports vs Hanwha Life Esports | LCK 2025 Cup | January 17th, 2025 | RFT.GG"
+  },
+  "14019": {
+    "matchId": 14019,
+    "slug": "kt-rolster-vs-hanwha-life-esports-2025-01-19",
+    "eventId": "1880",
+    "title": "KT Rolster vs Hanwha Life Esports | LCK 2025 Cup | January 19th, 2025 | RFT.GG"
+  },
+  "14024": {
+    "matchId": 14024,
+    "slug": "hanwha-life-esports-vs-nongshim-redforce-2025-01-23",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs Nongshim RedForce | LCK 2025 Cup | January 23rd, 2025 | RFT.GG"
+  },
+  "14027": {
+    "matchId": 14027,
+    "slug": "hanwha-life-esports-vs-dplus-2025-01-25",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs Dplus | LCK 2025 Cup | January 25th, 2025 | RFT.GG"
+  },
+  "14032": {
+    "matchId": 14032,
+    "slug": "drx-vs-hanwha-life-esports-2025-01-31",
+    "eventId": "1880",
+    "title": "DRX vs Hanwha Life Esports | LCK 2025 Cup | January 31st, 2025 | RFT.GG"
+  },
+  "14039": {
+    "matchId": 14039,
+    "slug": "hanwha-life-esports-vs-drx-2025-02-08",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs DRX | LCK 2025 Cup | February 8th, 2025 | RFT.GG"
+  },
+  "14042": {
+    "matchId": 14042,
+    "slug": "t1-vs-hanwha-life-esports-2025-02-13",
+    "eventId": "1880",
+    "title": "T1 vs Hanwha Life Esports | LCK 2025 Cup | February 13th, 2025 | RFT.GG"
+  },
+  "14044": {
+    "matchId": 14044,
+    "slug": "gen.g-esports-vs-hanwha-life-esports-2025-02-16",
+    "eventId": "1880",
+    "title": "Gen.G Esports vs Hanwha Life Esports | LCK 2025 Cup | February 16th, 2025 | RFT.GG"
+  },
+  "14045": {
+    "matchId": 14045,
+    "slug": "dplus-vs-hanwha-life-esports-2025-02-19",
+    "eventId": "1880",
+    "title": "Dplus vs Hanwha Life Esports | LCK 2025 Cup | February 19th, 2025 | RFT.GG"
+  },
+  "14048": {
+    "matchId": 14048,
+    "slug": "hanwha-life-esports-vs-gen.g-esports-2025-02-23",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs Gen.G Esports | LCK 2025 Cup | February 23rd, 2025 | RFT.GG"
+  },
+  "12707": {
+    "matchId": 12707,
+    "slug": "hanwha-life-esports-vs-top-esports-2025-03-10",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs Top Esports | First Stand 2025 | March 10th, 2025 | RFT.GG"
+  },
+  "12710": {
+    "matchId": 12710,
+    "slug": "ctbc-flying-oyster-vs-hanwha-life-esports-2025-03-12",
+    "eventId": "1880",
+    "title": "CTBC Flying Oyster vs Hanwha Life Esports | First Stand 2025 | March 12th, 2025 | RFT.GG"
+  },
+  "12713": {
+    "matchId": 12713,
+    "slug": "karmine-corp-vs-hanwha-life-esports-2025-03-13",
+    "eventId": "1880",
+    "title": "Karmine Corp vs Hanwha Life Esports | First Stand 2025 | March 13th, 2025 | RFT.GG"
+  },
+  "12715": {
+    "matchId": 12715,
+    "slug": "team-liquid-vs-hanwha-life-esports-2025-03-14",
+    "eventId": "1880",
+    "title": "Team Liquid vs Hanwha Life Esports | First Stand 2025 | March 14th, 2025 | RFT.GG"
+  },
+  "12717": {
+    "matchId": 12717,
+    "slug": "hanwha-life-esports-vs-top-esports-2025-03-15",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs Top Esports | First Stand 2025 | March 15th, 2025 | RFT.GG"
+  },
+  "12718": {
+    "matchId": 12718,
+    "slug": "hanwha-life-esports-vs-karmine-corp-2025-03-16",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs Karmine Corp | First Stand 2025 | March 16th, 2025 | RFT.GG"
+  },
+  "14054": {
+    "matchId": 14054,
+    "slug": "hanwha-life-esports-vs-gen.g-esports-2025-04-02",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs Gen.G Esports | LCK 2025 Season | April 2nd, 2025 | RFT.GG"
+  },
+  "14058": {
+    "matchId": 14058,
+    "slug": "hanwha-life-esports-vs-kt-rolster-2025-04-04",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs KT Rolster | LCK 2025 Season | April 4th, 2025 | RFT.GG"
+  },
+  "14064": {
+    "matchId": 14064,
+    "slug": "freecs-vs-hanwha-life-esports-2025-04-09",
+    "eventId": "1880",
+    "title": "Freecs vs Hanwha Life Esports | LCK 2025 Season | April 9th, 2025 | RFT.GG"
+  },
+  "14070": {
+    "matchId": 14070,
+    "slug": "hanwha-life-esports-vs-t1-2025-04-12",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs T1 | LCK 2025 Season | April 12th, 2025 | RFT.GG"
+  },
+  "14076": {
+    "matchId": 14076,
+    "slug": "drx-vs-hanwha-life-esports-2025-04-17",
+    "eventId": "1880",
+    "title": "DRX vs Hanwha Life Esports | LCK 2025 Season | April 17th, 2025 | RFT.GG"
+  },
+  "14081": {
+    "matchId": 14081,
+    "slug": "nongshim-redforce-vs-hanwha-life-esports-2025-04-19",
+    "eventId": "1880",
+    "title": "Nongshim RedForce vs Hanwha Life Esports | LCK 2025 Season | April 19th, 2025 | RFT.GG"
+  },
+  "14087": {
+    "matchId": 14087,
+    "slug": "hanwha-life-esports-vs-brion-2025-04-24",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs BRION | LCK 2025 Season | April 24th, 2025 | RFT.GG"
+  },
+  "14093": {
+    "matchId": 14093,
+    "slug": "dplus-vs-hanwha-life-esports-2025-04-27",
+    "eventId": "1880",
+    "title": "Dplus vs Hanwha Life Esports | LCK 2025 Season | April 27th, 2025 | RFT.GG"
+  },
+  "14095": {
+    "matchId": 14095,
+    "slug": "fearx-vs-hanwha-life-esports-2025-04-30",
+    "eventId": "1880",
+    "title": "FEARX vs Hanwha Life Esports | LCK 2025 Season | April 30th, 2025 | RFT.GG"
+  },
+  "14099": {
+    "matchId": 14099,
+    "slug": "hanwha-life-esports-vs-nongshim-redforce-2025-05-02",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs Nongshim RedForce | LCK 2025 Season | May 2nd, 2025 | RFT.GG"
+  },
+  "14109": {
+    "matchId": 14109,
+    "slug": "brion-vs-hanwha-life-esports-2025-05-09",
+    "eventId": "1880",
+    "title": "BRION vs Hanwha Life Esports | LCK 2025 Season | May 9th, 2025 | RFT.GG"
+  },
+  "14113": {
+    "matchId": 14113,
+    "slug": "hanwha-life-esports-vs-drx-2025-05-11",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs DRX | LCK 2025 Season | May 11th, 2025 | RFT.GG"
+  },
+  "14116": {
+    "matchId": 14116,
+    "slug": "kt-rolster-vs-hanwha-life-esports-2025-05-15",
+    "eventId": "1880",
+    "title": "KT Rolster vs Hanwha Life Esports | LCK 2025 Season | May 15th, 2025 | RFT.GG"
+  },
+  "14122": {
+    "matchId": 14122,
+    "slug": "hanwha-life-esports-vs-freecs-2025-05-18",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs Freecs | LCK 2025 Season | May 18th, 2025 | RFT.GG"
+  },
+  "14124": {
+    "matchId": 14124,
+    "slug": "gen.g-esports-vs-hanwha-life-esports-2025-05-21",
+    "eventId": "1880",
+    "title": "Gen.G Esports vs Hanwha Life Esports | LCK 2025 Season | May 21st, 2025 | RFT.GG"
+  },
+  "14130": {
+    "matchId": 14130,
+    "slug": "hanwha-life-esports-vs-dplus-2025-05-24",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs Dplus | LCK 2025 Season | May 24th, 2025 | RFT.GG"
+  },
+  "14135": {
+    "matchId": 14135,
+    "slug": "t1-vs-hanwha-life-esports-2025-05-28",
+    "eventId": "1880",
+    "title": "T1 vs Hanwha Life Esports | LCK 2025 Season | May 28th, 2025 | RFT.GG"
+  },
+  "14142": {
+    "matchId": 14142,
+    "slug": "hanwha-life-esports-vs-fearx-2025-06-01",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs FEARX | LCK 2025 Season | June 1st, 2025 | RFT.GG"
+  },
+  "14051": {
+    "matchId": 14051,
+    "slug": "gen.g-esports-vs-hanwha-life-esports-2025-06-13",
+    "eventId": "1880",
+    "title": "Gen.G Esports vs Hanwha Life Esports | LCK 2025 Road to MSI | June 13th, 2025 | RFT.GG"
+  },
+  "14053": {
+    "matchId": 14053,
+    "slug": "hanwha-life-esports-vs-t1-2025-06-15",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs T1 | LCK 2025 Road to MSI | June 15th, 2025 | RFT.GG"
+  },
+  "13410": {
+    "matchId": 13410,
+    "slug": "ctbc-flying-oyster-vs-hanwha-life-esports-2025-07-16",
+    "eventId": "1880",
+    "title": "CTBC Flying Oyster vs Hanwha Life Esports | Esports World Cup 2025 | July 16th, 2025 | RFT.GG"
+  },
+  "13414": {
+    "matchId": 13414,
+    "slug": "hanwha-life-esports-vs-movistar-koi-2025-07-16",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs Movistar KOI | Esports World Cup 2025 | July 16th, 2025 | RFT.GG"
+  },
+  "13420": {
+    "matchId": 13420,
+    "slug": "anyone-s-legend-vs-hanwha-life-esports-2025-07-17",
+    "eventId": "1880",
+    "title": "AG.AL International vs Hanwha Life Esports | Esports World Cup 2025 | July 17th, 2025 | RFT.GG"
+  },
+  "14146": {
+    "matchId": 14146,
+    "slug": "gen.g-esports-vs-hanwha-life-esports-2025-07-23",
+    "eventId": "1880",
+    "title": "Gen.G Esports vs Hanwha Life Esports | LCK 2025 Season | July 23rd, 2025 | RFT.GG"
+  },
+  "14152": {
+    "matchId": 14152,
+    "slug": "hanwha-life-esports-vs-kt-rolster-2025-07-26",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs KT Rolster | LCK 2025 Season | July 26th, 2025 | RFT.GG"
+  },
+  "14158": {
+    "matchId": 14158,
+    "slug": "nongshim-redforce-vs-hanwha-life-esports-2025-07-31",
+    "eventId": "1880",
+    "title": "Nongshim RedForce vs Hanwha Life Esports | LCK 2025 Season | July 31st, 2025 | RFT.GG"
+  },
+  "14161": {
+    "matchId": 14161,
+    "slug": "t1-vs-hanwha-life-esports-2025-08-02",
+    "eventId": "1880",
+    "title": "T1 vs Hanwha Life Esports | LCK 2025 Season | August 2nd, 2025 | RFT.GG"
+  },
+  "14165": {
+    "matchId": 14165,
+    "slug": "hanwha-life-esports-vs-nongshim-redforce-2025-08-06",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs Nongshim RedForce | LCK 2025 Season | August 6th, 2025 | RFT.GG"
+  },
+  "14170": {
+    "matchId": 14170,
+    "slug": "kt-rolster-vs-hanwha-life-esports-2025-08-08",
+    "eventId": "1880",
+    "title": "KT Rolster vs Hanwha Life Esports | LCK 2025 Season | August 8th, 2025 | RFT.GG"
+  },
+  "14180": {
+    "matchId": 14180,
+    "slug": "hanwha-life-esports-vs-t1-2025-08-15",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs T1 | LCK 2025 Season | August 15th, 2025 | RFT.GG"
+  },
+  "14183": {
+    "matchId": 14183,
+    "slug": "hanwha-life-esports-vs-gen.g-esports-2025-08-17",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs Gen.G Esports | LCK 2025 Season | August 17th, 2025 | RFT.GG"
+  },
+  "14187": {
+    "matchId": 14187,
+    "slug": "kt-rolster-vs-hanwha-life-esports-2025-08-21",
+    "eventId": "1880",
+    "title": "KT Rolster vs Hanwha Life Esports | LCK 2025 Season | August 21st, 2025 | RFT.GG"
+  },
+  "14191": {
+    "matchId": 14191,
+    "slug": "hanwha-life-esports-vs-gen.g-esports-2025-08-23",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs Gen.G Esports | LCK 2025 Season | August 23rd, 2025 | RFT.GG"
+  },
+  "14195": {
+    "matchId": 14195,
+    "slug": "t1-vs-hanwha-life-esports-2025-08-27",
+    "eventId": "1880",
+    "title": "T1 vs Hanwha Life Esports | LCK 2025 Season | August 27th, 2025 | RFT.GG"
+  },
+  "14200": {
+    "matchId": 14200,
+    "slug": "hanwha-life-esports-vs-nongshim-redforce-2025-08-29",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs Nongshim RedForce | LCK 2025 Season | August 29th, 2025 | RFT.GG"
+  },
+  "14213": {
+    "matchId": 14213,
+    "slug": "hanwha-life-esports-vs-t1-2025-09-14",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs T1 | LCK 2025 Season | September 14th, 2025 | RFT.GG"
+  },
+  "14216": {
+    "matchId": 14216,
+    "slug": "kt-rolster-vs-hanwha-life-esports-2025-09-20",
+    "eventId": "1880",
+    "title": "KT Rolster vs Hanwha Life Esports | LCK 2025 Season | September 20th, 2025 | RFT.GG"
+  },
+  "14219": {
+    "matchId": 14219,
+    "slug": "hanwha-life-esports-vs-gen.g-esports-2025-09-28",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs Gen.G Esports | LCK 2025 Season | September 28th, 2025 | RFT.GG"
+  },
+  "12743": {
+    "matchId": 12743,
+    "slug": "hanwha-life-esports-vs-anyone-s-legend-2025-10-15",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs Anyone&#x27;s Legend | World Championship 2025 | October 15th, 2025 | RFT.GG"
+  },
+  "12753": {
+    "matchId": 12753,
+    "slug": "psg-talon-vs-hanwha-life-esports-2025-10-16",
+    "eventId": "1880",
+    "title": "PSG Talon vs Hanwha Life Esports | World Championship 2025 | October 16th, 2025 | RFT.GG"
+  },
+  "12759": {
+    "matchId": 12759,
+    "slug": "100-thieves-vs-hanwha-life-esports-2025-10-18",
+    "eventId": "1880",
+    "title": "100 Thieves vs Hanwha Life Esports | World Championship 2025 | October 18th, 2025 | RFT.GG"
+  },
+  "12762": {
+    "matchId": 12762,
+    "slug": "hanwha-life-esports-vs-ctbc-flying-oyster-2025-10-22",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs CTBC Flying Oyster | World Championship 2025 | October 22nd, 2025 | RFT.GG"
+  },
+  "12771": {
+    "matchId": 12771,
+    "slug": "gen.g-esports-vs-hanwha-life-esports-2025-10-28",
+    "eventId": "1880",
+    "title": "Gen.G Esports vs Hanwha Life Esports | World Championship 2025 | October 28th, 2025 | RFT.GG"
+  },
+  "66853": {
+    "matchId": 66853,
+    "slug": "hanwha-life-esports-vs-cloud9-2025-12-06",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs Cloud9 | KeSPA Cup 2025 | December 6th, 2025 | RFT.GG"
+  },
+  "66856": {
+    "matchId": 66856,
+    "slug": "hanwha-life-esports-vs-fearx-2025-12-06",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs FEARX | KeSPA Cup 2025 | December 6th, 2025 | RFT.GG"
+  },
+  "66866": {
+    "matchId": 66866,
+    "slug": "vietnam-vs-hanwha-life-esports-2025-12-07",
+    "eventId": "1880",
+    "title": "Vietnam vs Hanwha Life Esports | KeSPA Cup 2025 | December 7th, 2025 | RFT.GG"
+  },
+  "66869": {
+    "matchId": 66869,
+    "slug": "gen.g-esports-vs-hanwha-life-esports-2025-12-08",
+    "eventId": "1880",
+    "title": "Gen.G Esports vs Hanwha Life Esports | KeSPA Cup 2025 | December 8th, 2025 | RFT.GG"
+  },
+  "66880": {
+    "matchId": 66880,
+    "slug": "hanwha-life-esports-vs-t1-2025-12-11",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs T1 | KeSPA Cup 2025 | December 11th, 2025 | RFT.GG"
+  },
+  "66882": {
+    "matchId": 66882,
+    "slug": "dplus-vs-hanwha-life-esports-2025-12-12",
+    "eventId": "1880",
+    "title": "Dplus vs Hanwha Life Esports | KeSPA Cup 2025 | December 12th, 2025 | RFT.GG"
+  },
+  "66884": {
+    "matchId": 66884,
+    "slug": "hanwha-life-esports-vs-t1-2025-12-14",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs T1 | KeSPA Cup 2025 | December 14th, 2025 | RFT.GG"
+  },
+  "62039": {
+    "matchId": 62039,
+    "slug": "gen.g-esports-vs-t1-2024-01-17",
+    "eventId": "1880",
+    "title": "Gen.G Esports vs T1 | LCK 2024 Spring | January 17th, 2024 | RFT.GG"
+  },
+  "62043": {
+    "matchId": 62043,
+    "slug": "t1-vs-freecs-2024-01-19",
+    "eventId": "1880",
+    "title": "T1 vs Freecs | LCK 2024 Spring | January 19th, 2024 | RFT.GG"
+  },
+  "62052": {
+    "matchId": 62052,
+    "slug": "kt-rolster-vs-t1-2024-01-26",
+    "eventId": "1880",
+    "title": "KT Rolster vs T1 | LCK 2024 Spring | January 26th, 2024 | RFT.GG"
+  },
+  "62057": {
+    "matchId": 62057,
+    "slug": "hanwha-life-esports-vs-t1-2024-01-28",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs T1 | LCK 2024 Spring | January 28th, 2024 | RFT.GG"
+  },
+  "62060": {
+    "matchId": 62060,
+    "slug": "t1-vs-drx-2024-02-01",
+    "eventId": "1426",
+    "title": "T1 vs DRX | LCK 2024 Spring | February 1st, 2024 | RFT.GG"
+  },
+  "62065": {
+    "matchId": 62065,
+    "slug": "brion-vs-t1-2024-02-03",
+    "eventId": "1880",
+    "title": "BRION vs T1 | LCK 2024 Spring | February 3rd, 2024 | RFT.GG"
+  },
+  "62070": {
+    "matchId": 62070,
+    "slug": "t1-vs-dplus-2024-02-15",
+    "eventId": "1880",
+    "title": "T1 vs Dplus | LCK 2024 Spring | February 15th, 2024 | RFT.GG"
+  },
+  "62076": {
+    "matchId": 62076,
+    "slug": "fearx-vs-t1-2024-02-18",
+    "eventId": "1880",
+    "title": "FearX vs T1 | LCK 2024 Spring | February 18th, 2024 | RFT.GG"
+  },
+  "62078": {
+    "matchId": 62078,
+    "slug": "t1-vs-nongshim-redforce-2024-02-21",
+    "eventId": "1880",
+    "title": "T1 vs Nongshim RedForce | LCK 2024 Spring | February 21st, 2024 | RFT.GG"
+  },
+  "62084": {
+    "matchId": 62084,
+    "slug": "t1-vs-kt-rolster-2024-02-24",
+    "eventId": "1880",
+    "title": "T1 vs KT Rolster | LCK 2024 Spring | February 24th, 2024 | RFT.GG"
+  },
+  "62089": {
+    "matchId": 62089,
+    "slug": "t1-vs-fearx-2024-02-28",
+    "eventId": "1880",
+    "title": "T1 vs FearX | LCK 2024 Spring | February 28th, 2024 | RFT.GG"
+  },
+  "62095": {
+    "matchId": 62095,
+    "slug": "t1-vs-brion-2024-03-02",
+    "eventId": "1880",
+    "title": "T1 vs BRION | LCK 2024 Spring | March 2nd, 2024 | RFT.GG"
+  },
+  "62100": {
+    "matchId": 62100,
+    "slug": "freecs-vs-t1-2024-03-07",
+    "eventId": "1880",
+    "title": "Freecs vs T1 | LCK 2024 Spring | March 7th, 2024 | RFT.GG"
+  },
+  "62104": {
+    "matchId": 62104,
+    "slug": "t1-vs-gen.g-esports-2024-03-09",
+    "eventId": "1880",
+    "title": "T1 vs Gen.G Esports | LCK 2024 Spring | March 9th, 2024 | RFT.GG"
+  },
+  "62109": {
+    "matchId": 62109,
+    "slug": "dplus-vs-t1-2024-03-13",
+    "eventId": "1880",
+    "title": "Dplus vs T1 | LCK 2024 Spring | March 13th, 2024 | RFT.GG"
+  },
+  "62113": {
+    "matchId": 62113,
+    "slug": "t1-vs-hanwha-life-esports-2024-03-15",
+    "eventId": "1880",
+    "title": "T1 vs Hanwha Life Esports | LCK 2024 Spring | March 15th, 2024 | RFT.GG"
+  },
+  "62119": {
+    "matchId": 62119,
+    "slug": "nongshim-redforce-vs-t1-2024-03-20",
+    "eventId": "1880",
+    "title": "Nongshim RedForce vs T1 | LCK 2024 Spring | March 20th, 2024 | RFT.GG"
+  },
+  "62125": {
+    "matchId": 62125,
+    "slug": "drx-vs-t1-2024-03-23",
+    "eventId": "1880",
+    "title": "DRX vs T1 | LCK 2024 Spring | March 23rd, 2024 | RFT.GG"
+  },
+  "62033": {
+    "matchId": 62033,
+    "slug": "t1-vs-hanwha-life-esports-2024-04-04",
+    "eventId": "1880",
+    "title": "T1 vs Hanwha Life Esports | LCK 2024 Spring | April 4th, 2024 | RFT.GG"
+  },
+  "62035": {
+    "matchId": 62035,
+    "slug": "dplus-vs-t1-2024-04-07",
+    "eventId": "1880",
+    "title": "Dplus vs T1 | LCK 2024 Spring | April 7th, 2024 | RFT.GG"
+  },
+  "62036": {
+    "matchId": 62036,
+    "slug": "hanwha-life-esports-vs-t1-2024-04-13",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs T1 | LCK 2024 Spring | April 13th, 2024 | RFT.GG"
+  },
+  "62037": {
+    "matchId": 62037,
+    "slug": "gen.g-esports-vs-t1-2024-04-14",
+    "eventId": "1880",
+    "title": "Gen.G Esports vs T1 | LCK 2024 Spring | April 14th, 2024 | RFT.GG"
+  },
+  "60306": {
+    "matchId": 60306,
+    "slug": "t1-vs-estral-esports-2024-05-01",
+    "eventId": "1880",
+    "title": "T1 vs Estral Esports | MSI 2024 | May 1st, 2024 | RFT.GG"
+  },
+  "60309": {
+    "matchId": 60309,
+    "slug": "t1-vs-flyquest-2024-05-03",
+    "eventId": "1880",
+    "title": "T1 vs FlyQuest | MSI 2024 | May 3rd, 2024 | RFT.GG"
+  },
+  "60318": {
+    "matchId": 60318,
+    "slug": "g2-esports-vs-t1-2024-05-10",
+    "eventId": "1880",
+    "title": "G2 Esports vs T1 | MSI 2024 | May 10th, 2024 | RFT.GG"
+  },
+  "60322": {
+    "matchId": 60322,
+    "slug": "t1-vs-bilibili-gaming-2024-05-12",
+    "eventId": "1880",
+    "title": "T1 vs Bilibili Gaming | MSI 2024 | May 12th, 2024 | RFT.GG"
+  },
+  "60324": {
+    "matchId": 60324,
+    "slug": "t1-vs-team-liquid-2024-05-15",
+    "eventId": "1880",
+    "title": "T1 vs Team Liquid | MSI 2024 | May 15th, 2024 | RFT.GG"
+  },
+  "60326": {
+    "matchId": 60326,
+    "slug": "t1-vs-g2-esports-2024-05-17",
+    "eventId": "1880",
+    "title": "T1 vs G2 Esports | MSI 2024 | May 17th, 2024 | RFT.GG"
+  },
+  "60327": {
+    "matchId": 60327,
+    "slug": "bilibili-gaming-vs-t1-2024-05-18",
+    "eventId": "1880",
+    "title": "Bilibili Gaming vs T1 | MSI 2024 | May 18th, 2024 | RFT.GG"
+  },
+  "62141": {
+    "matchId": 62141,
+    "slug": "t1-vs-nongshim-redforce-2024-06-14",
+    "eventId": "1880",
+    "title": "T1 vs Nongshim RedForce | LCK 2024 Summer | June 14th, 2024 | RFT.GG"
+  },
+  "62145": {
+    "matchId": 62145,
+    "slug": "t1-vs-gen.g-esports-2024-06-16",
+    "eventId": "1880",
+    "title": "T1 vs Gen.G Esports | LCK 2024 Summer | June 16th, 2024 | RFT.GG"
+  },
+  "62147": {
+    "matchId": 62147,
+    "slug": "t1-vs-dplus-2024-06-19",
+    "eventId": "1880",
+    "title": "T1 vs Dplus | LCK 2024 Summer | June 19th, 2024 | RFT.GG"
+  },
+  "62151": {
+    "matchId": 62151,
+    "slug": "t1-vs-freecs-2024-06-21",
+    "eventId": "1880",
+    "title": "T1 vs Freecs | LCK 2024 Summer | June 21st, 2024 | RFT.GG"
+  },
+  "62156": {
+    "matchId": 62156,
+    "slug": "t1-vs-drx-2024-06-26",
+    "eventId": "1880",
+    "title": "T1 vs DRX | LCK 2024 Summer | June 26th, 2024 | RFT.GG"
+  },
+  "62162": {
+    "matchId": 62162,
+    "slug": "t1-vs-kt-rolster-2024-06-29",
+    "eventId": "1880",
+    "title": "T1 vs KT Rolster | LCK 2024 Summer | June 29th, 2024 | RFT.GG"
+  },
+  "61306": {
+    "matchId": 61306,
+    "slug": "bilibili-gaming-vs-t1-2024-07-04",
+    "eventId": "1880",
+    "title": "Bilibili Gaming vs T1 | Esports World Cup 2024 | July 4th, 2024 | RFT.GG"
+  },
+  "61310": {
+    "matchId": 61310,
+    "slug": "t1-vs-team-liquid-2024-07-06",
+    "eventId": "1880",
+    "title": "T1 vs Team Liquid | Esports World Cup 2024 | July 6th, 2024 | RFT.GG"
+  },
+  "61312": {
+    "matchId": 61312,
+    "slug": "t1-vs-top-esports-2024-07-07",
+    "eventId": "1880",
+    "title": "T1 vs Top Esports | Esports World Cup 2024 | July 7th, 2024 | RFT.GG"
+  },
+  "62166": {
+    "matchId": 62166,
+    "slug": "t1-vs-brion-2024-07-10",
+    "eventId": "1880",
+    "title": "T1 vs BRION | LCK 2024 Summer | July 10th, 2024 | RFT.GG"
+  },
+  "62171": {
+    "matchId": 62171,
+    "slug": "t1-vs-hanwha-life-esports-2024-07-12",
+    "eventId": "1880",
+    "title": "T1 vs Hanwha Life Esports | LCK 2024 Summer | July 12th, 2024 | RFT.GG"
+  },
+  "62178": {
+    "matchId": 62178,
+    "slug": "t1-vs-fearx-2024-07-18",
+    "eventId": "1880",
+    "title": "T1 vs FearX | LCK 2024 Summer | July 18th, 2024 | RFT.GG"
+  },
+  "62182": {
+    "matchId": 62182,
+    "slug": "t1-vs-hanwha-life-esports-2024-07-20",
+    "eventId": "1880",
+    "title": "T1 vs Hanwha Life Esports | LCK 2024 Summer | July 20th, 2024 | RFT.GG"
+  },
+  "62191": {
+    "matchId": 62191,
+    "slug": "t1-vs-kt-rolster-2024-07-26",
+    "eventId": "1880",
+    "title": "T1 vs KT Rolster | LCK 2024 Summer | July 26th, 2024 | RFT.GG"
+  },
+  "62194": {
+    "matchId": 62194,
+    "slug": "t1-vs-drx-2024-07-28",
+    "eventId": "1880",
+    "title": "T1 vs DRX | LCK 2024 Summer | July 28th, 2024 | RFT.GG"
+  },
+  "62196": {
+    "matchId": 62196,
+    "slug": "t1-vs-dplus-2024-07-31",
+    "eventId": "1880",
+    "title": "T1 vs Dplus | LCK 2024 Summer | July 31st, 2024 | RFT.GG"
+  },
+  "62202": {
+    "matchId": 62202,
+    "slug": "t1-vs-gen.g-esports-2024-08-03",
+    "eventId": "1880",
+    "title": "T1 vs Gen.G Esports | LCK 2024 Summer | August 3rd, 2024 | RFT.GG"
+  },
+  "62211": {
+    "matchId": 62211,
+    "slug": "t1-vs-nongshim-redforce-2024-08-09",
+    "eventId": "1880",
+    "title": "T1 vs Nongshim RedForce | LCK 2024 Summer | August 9th, 2024 | RFT.GG"
+  },
+  "62215": {
+    "matchId": 62215,
+    "slug": "t1-vs-brion-2024-08-11",
+    "eventId": "1880",
+    "title": "T1 vs BRION | LCK 2024 Summer | August 11th, 2024 | RFT.GG"
+  },
+  "62217": {
+    "matchId": 62217,
+    "slug": "t1-vs-freecs-2024-08-14",
+    "eventId": "1880",
+    "title": "T1 vs Freecs | LCK 2024 Summer | August 14th, 2024 | RFT.GG"
+  },
+  "62223": {
+    "matchId": 62223,
+    "slug": "t1-vs-fearx-2024-08-17",
+    "eventId": "1880",
+    "title": "T1 vs FearX | LCK 2024 Summer | August 17th, 2024 | RFT.GG"
+  },
+  "62129": {
+    "matchId": 62129,
+    "slug": "t1-vs-kt-rolster-2024-08-24",
+    "eventId": "1880",
+    "title": "T1 vs KT Rolster | LCK 2024 Summer | August 24th, 2024 | RFT.GG"
+  },
+  "62131": {
+    "matchId": 62131,
+    "slug": "hanwha-life-esports-vs-t1-2024-08-29",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs T1 | LCK 2024 Summer | August 29th, 2024 | RFT.GG"
+  },
+  "62133": {
+    "matchId": 62133,
+    "slug": "dplus-vs-t1-2024-09-01",
+    "eventId": "1880",
+    "title": "Dplus vs T1 | LCK 2024 Summer | September 1st, 2024 | RFT.GG"
+  },
+  "62134": {
+    "matchId": 62134,
+    "slug": "hanwha-life-esports-vs-t1-2024-09-07",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs T1 | LCK 2024 Summer | September 7th, 2024 | RFT.GG"
+  },
+  "62027": {
+    "matchId": 62027,
+    "slug": "t1-vs-dplus-2024-09-12",
+    "eventId": "1880",
+    "title": "T1 vs Dplus | LCK 2024 Regional Finals | September 12th, 2024 | RFT.GG"
+  },
+  "62029": {
+    "matchId": 62029,
+    "slug": "t1-vs-kt-rolster-2024-09-14",
+    "eventId": "1880",
+    "title": "T1 vs KT Rolster | LCK 2024 Regional Finals | September 14th, 2024 | RFT.GG"
+  },
+  "60330": {
+    "matchId": 60330,
+    "slug": "top-esports-vs-t1-2024-10-03",
+    "eventId": "1880",
+    "title": "Top Esports vs T1 | World Championship 2024 | October 3rd, 2024 | RFT.GG"
+  },
+  "60341": {
+    "matchId": 60341,
+    "slug": "t1-vs-pain-gaming-2024-10-04",
+    "eventId": "1880",
+    "title": "T1 vs paiN Gaming | World Championship 2024 | October 4th, 2024 | RFT.GG"
+  },
+  "60348": {
+    "matchId": 60348,
+    "slug": "bilibili-gaming-vs-t1-2024-10-06",
+    "eventId": "1880",
+    "title": "Bilibili Gaming vs T1 | World Championship 2024 | October 6th, 2024 | RFT.GG"
+  },
+  "60355": {
+    "matchId": 60355,
+    "slug": "g2-esports-vs-t1-2024-10-11",
+    "eventId": "1880",
+    "title": "G2 Esports vs T1 | World Championship 2024 | October 11th, 2024 | RFT.GG"
+  },
+  "60364": {
+    "matchId": 60364,
+    "slug": "top-esports-vs-t1-2024-10-19",
+    "eventId": "1880",
+    "title": "Top Esports vs T1 | World Championship 2024 | October 19th, 2024 | RFT.GG"
+  },
+  "60367": {
+    "matchId": 60367,
+    "slug": "t1-vs-gen.g-esports-2024-10-27",
+    "eventId": "1880",
+    "title": "T1 vs Gen.G Esports | World Championship 2024 | October 27th, 2024 | RFT.GG"
+  },
+  "60368": {
+    "matchId": 60368,
+    "slug": "bilibili-gaming-vs-t1-2024-11-02",
+    "eventId": "1880",
+    "title": "Bilibili Gaming vs T1 | World Championship 2024 | November 2nd, 2024 | RFT.GG"
+  },
+  "55470": {
+    "matchId": 55470,
+    "slug": "t1-vs-gen.g-esports-2023-01-18",
+    "eventId": "1880",
+    "title": "T1 vs Gen.G Esports | LCK 2023 Spring | January 18th, 2023 | RFT.GG"
+  },
+  "55473": {
+    "matchId": 55473,
+    "slug": "t1-vs-kt-rolster-2023-01-20",
+    "eventId": "1880",
+    "title": "T1 vs KT Rolster | LCK 2023 Spring | January 20th, 2023 | RFT.GG"
+  },
+  "55482": {
+    "matchId": 55482,
+    "slug": "t1-vs-freecs-2023-01-26",
+    "eventId": "1880",
+    "title": "T1 vs Freecs | LCK 2023 Spring | January 26th, 2023 | RFT.GG"
+  },
+  "55485": {
+    "matchId": 55485,
+    "slug": "t1-vs-dplus-2023-01-28",
+    "eventId": "1880",
+    "title": "T1 vs Dplus | LCK 2023 Spring | January 28th, 2023 | RFT.GG"
+  },
+  "55492": {
+    "matchId": 55492,
+    "slug": "t1-vs-hanwha-life-esports-2023-02-02",
+    "eventId": "1880",
+    "title": "T1 vs Hanwha Life Esports | LCK 2023 Spring | February 2nd, 2023 | RFT.GG"
+  },
+  "55496": {
+    "matchId": 55496,
+    "slug": "t1-vs-nongshim-redforce-2023-02-04",
+    "eventId": "1880",
+    "title": "T1 vs Nongshim RedForce | LCK 2023 Spring | February 4th, 2023 | RFT.GG"
+  },
+  "55500": {
+    "matchId": 55500,
+    "slug": "t1-vs-brion-2023-02-08",
+    "eventId": "1880",
+    "title": "T1 vs BRION | LCK 2023 Spring | February 8th, 2023 | RFT.GG"
+  },
+  "55508": {
+    "matchId": 55508,
+    "slug": "t1-vs-drx-2023-02-12",
+    "eventId": "1880",
+    "title": "T1 vs DRX | LCK 2023 Spring | February 12th, 2023 | RFT.GG"
+  },
+  "55513": {
+    "matchId": 55513,
+    "slug": "t1-vs-sandbox-gaming-2023-02-17",
+    "eventId": "1880",
+    "title": "T1 vs SANDBOX Gaming | LCK 2023 Spring | February 17th, 2023 | RFT.GG"
+  },
+  "55517": {
+    "matchId": 55517,
+    "slug": "t1-vs-gen.g-esports-2023-02-19",
+    "eventId": "1880",
+    "title": "T1 vs Gen.G Esports | LCK 2023 Spring | February 19th, 2023 | RFT.GG"
+  },
+  "55522": {
+    "matchId": 55522,
+    "slug": "t1-vs-sandbox-gaming-2023-02-23",
+    "eventId": "1880",
+    "title": "T1 vs SANDBOX Gaming | LCK 2023 Spring | February 23rd, 2023 | RFT.GG"
+  },
+  "55525": {
+    "matchId": 55525,
+    "slug": "t1-vs-kt-rolster-2023-02-25",
+    "eventId": "1880",
+    "title": "T1 vs KT Rolster | LCK 2023 Spring | February 25th, 2023 | RFT.GG"
+  },
+  "55529": {
+    "matchId": 55529,
+    "slug": "t1-vs-freecs-2023-03-01",
+    "eventId": "1880",
+    "title": "T1 vs Freecs | LCK 2023 Spring | March 1st, 2023 | RFT.GG"
+  },
+  "55534": {
+    "matchId": 55534,
+    "slug": "t1-vs-brion-2023-03-03",
+    "eventId": "1880",
+    "title": "T1 vs BRION | LCK 2023 Spring | March 3rd, 2023 | RFT.GG"
+  },
+  "55542": {
+    "matchId": 55542,
+    "slug": "t1-vs-drx-2023-03-09",
+    "eventId": "1880",
+    "title": "T1 vs DRX | LCK 2023 Spring | March 9th, 2023 | RFT.GG"
+  },
+  "55546": {
+    "matchId": 55546,
+    "slug": "t1-vs-hanwha-life-esports-2023-03-11",
+    "eventId": "1880",
+    "title": "T1 vs Hanwha Life Esports | LCK 2023 Spring | March 11th, 2023 | RFT.GG"
+  },
+  "55551": {
+    "matchId": 55551,
+    "slug": "t1-vs-dplus-2023-03-16",
+    "eventId": "1880",
+    "title": "T1 vs Dplus | LCK 2023 Spring | March 16th, 2023 | RFT.GG"
+  },
+  "55557": {
+    "matchId": 55557,
+    "slug": "t1-vs-nongshim-redforce-2023-03-19",
+    "eventId": "1880",
+    "title": "T1 vs Nongshim RedForce | LCK 2023 Spring | March 19th, 2023 | RFT.GG"
+  },
+  "55463": {
+    "matchId": 55463,
+    "slug": "t1-vs-kt-rolster-2023-03-25",
+    "eventId": "1880",
+    "title": "T1 vs KT Rolster | LCK 2023 Spring | March 25th, 2023 | RFT.GG"
+  },
+  "55465": {
+    "matchId": 55465,
+    "slug": "t1-vs-gen.g-esports-2023-04-01",
+    "eventId": "1880",
+    "title": "T1 vs Gen.G Esports | LCK 2023 Spring | April 1st, 2023 | RFT.GG"
+  },
+  "55468": {
+    "matchId": 55468,
+    "slug": "t1-vs-gen.g-esports-2023-04-09",
+    "eventId": "1880",
+    "title": "T1 vs Gen.G Esports | LCK 2023 Spring | April 9th, 2023 | RFT.GG"
+  },
+  "53616": {
+    "matchId": 53616,
+    "slug": "mad-lions-vs-t1-2023-05-10",
+    "eventId": "1880",
+    "title": "MAD Lions vs T1 | MSI 2023 | May 10th, 2023 | RFT.GG"
+  },
+  "55647": {
+    "matchId": 55647,
+    "slug": "t1-vs-freecs-2023-08-02",
+    "eventId": "1880",
+    "title": "T1 vs Freecs | LCK 2023 Summer | August 2nd, 2023 | RFT.GG"
+  },
+  "55651": {
+    "matchId": 55651,
+    "slug": "sandbox-gaming-vs-t1-2023-08-04",
+    "eventId": "1880",
+    "title": "SANDBOX Gaming vs T1 | LCK 2023 Summer | August 4th, 2023 | RFT.GG"
+  },
+  "55560": {
+    "matchId": 55560,
+    "slug": "dplus-vs-t1-2023-08-09",
+    "eventId": "1880",
+    "title": "Dplus vs T1 | LCK 2023 Summer | August 9th, 2023 | RFT.GG"
+  },
+  "55561": {
+    "matchId": 55561,
+    "slug": "kt-rolster-vs-t1-2023-08-10",
+    "eventId": "1880",
+    "title": "KT Rolster vs T1 | LCK 2023 Summer | August 10th, 2023 | RFT.GG"
+  },
+  "55563": {
+    "matchId": 55563,
+    "slug": "t1-vs-gen.g-esports-2023-08-12",
+    "eventId": "1880",
+    "title": "T1 vs Gen.G Esports | LCK 2023 Summer | August 12th, 2023 | RFT.GG"
+  },
+  "55565": {
+    "matchId": 55565,
+    "slug": "t1-vs-kt-rolster-2023-08-19",
+    "eventId": "1880",
+    "title": "T1 vs KT Rolster | LCK 2023 Summer | August 19th, 2023 | RFT.GG"
+  },
+  "55566": {
+    "matchId": 55566,
+    "slug": "gen.g-esports-vs-t1-2023-08-20",
+    "eventId": "1880",
+    "title": "Gen.G Esports vs T1 | LCK 2023 Summer | August 20th, 2023 | RFT.GG"
+  },
+  "84466": {
+    "matchId": 84466,
+    "slug": "south-korea-vs-vietnam-2023-09-11",
+    "eventId": "1880",
+    "title": "South Korea vs Vietnam | Asian Games 2022 | September 11th, 2023 | RFT.GG"
+  },
+  "84467": {
+    "matchId": 84467,
+    "slug": "south-korea-vs-team-taiwan-2023-09-12",
+    "eventId": "1880",
+    "title": "South Korea vs Chinese Taipei | Asian Games 2022 | September 12th, 2023 | RFT.GG"
+  },
+  "77905": {
+    "matchId": 77905,
+    "slug": "hong-kong-vs-south-korea-2023-09-25",
+    "eventId": "1880",
+    "title": "Hong Kong vs South Korea | Asian Games 2022 | September 25th, 2023 | RFT.GG"
+  },
+  "77907": {
+    "matchId": 77907,
+    "slug": "south-korea-vs-kazakhstan-2023-09-25",
+    "eventId": "1880",
+    "title": "South Korea vs Kazakhstan | Asian Games 2022 | September 25th, 2023 | RFT.GG"
+  },
+  "77915": {
+    "matchId": 77915,
+    "slug": "saudi-arabia-vs-south-korea-2023-09-27",
+    "eventId": "1880",
+    "title": "Saudi Arabia vs South Korea | Asian Games 2022 | September 27th, 2023 | RFT.GG"
+  },
+  "77919": {
+    "matchId": 77919,
+    "slug": "south-korea-vs-china-2023-09-28",
+    "eventId": "1880",
+    "title": "South Korea vs China | Asian Games 2022 | September 28th, 2023 | RFT.GG"
+  },
+  "77922": {
+    "matchId": 77922,
+    "slug": "south-korea-vs-team-taiwan-2023-09-29",
+    "eventId": "1880",
+    "title": "South Korea vs Chinese Taipei | Asian Games 2022 | September 29th, 2023 | RFT.GG"
+  },
+  "53629": {
+    "matchId": 53629,
+    "slug": "t1-vs-team-liquid-2023-10-19",
+    "eventId": "1880",
+    "title": "T1 vs Team Liquid | World Championship 2023 | October 19th, 2023 | RFT.GG"
+  },
+  "53641": {
+    "matchId": 53641,
+    "slug": "gen.g-esports-vs-t1-2023-10-20",
+    "eventId": "1880",
+    "title": "Gen.G Esports vs T1 | World Championship 2023 | October 20th, 2023 | RFT.GG"
+  },
+  "53647": {
+    "matchId": 53647,
+    "slug": "t1-vs-cloud9-2023-10-22",
+    "eventId": "1880",
+    "title": "T1 vs Cloud9 | World Championship 2023 | October 22nd, 2023 | RFT.GG"
+  },
+  "53658": {
+    "matchId": 53658,
+    "slug": "t1-vs-bilibili-gaming-2023-10-28",
+    "eventId": "1880",
+    "title": "T1 vs Bilibili Gaming | World Championship 2023 | October 28th, 2023 | RFT.GG"
+  },
+  "53665": {
+    "matchId": 53665,
+    "slug": "lng-esports-vs-t1-2023-11-05",
+    "eventId": "1880",
+    "title": "LNG Esports vs T1 | World Championship 2023 | November 5th, 2023 | RFT.GG"
+  },
+  "53667": {
+    "matchId": 53667,
+    "slug": "jd-gaming-vs-t1-2023-11-12",
+    "eventId": "1880",
+    "title": "JD Gaming vs T1 | World Championship 2023 | November 12th, 2023 | RFT.GG"
+  },
+  "53668": {
+    "matchId": 53668,
+    "slug": "weibo-gaming-vs-t1-2023-11-19",
+    "eventId": "1880",
+    "title": "Weibo Gaming vs T1 | World Championship 2023 | November 19th, 2023 | RFT.GG"
+  },
+  "48791": {
+    "matchId": 48791,
+    "slug": "t1-vs-afreeca-freecs-2022-01-12",
+    "eventId": "1880",
+    "title": "T1 vs Freecs | LCK 2022 Spring | January 12th, 2022 | RFT.GG"
+  },
+  "48795": {
+    "matchId": 48795,
+    "slug": "brion-esports-vs-t1-2022-01-14",
+    "eventId": "1880",
+    "title": "Brion Esports vs T1 | LCK 2022 Spring | January 14th, 2022 | RFT.GG"
+  },
+  "48802": {
+    "matchId": 48802,
+    "slug": "drx-vs-t1-2022-01-20",
+    "eventId": "1880",
+    "title": "DRX vs T1 | LCK 2022 Spring | January 20th, 2022 | RFT.GG"
+  },
+  "48808": {
+    "matchId": 48808,
+    "slug": "sandbox-gaming-vs-t1-2022-01-23",
+    "eventId": "1880",
+    "title": "SANDBOX Gaming vs T1 | LCK 2022 Spring | January 23rd, 2022 | RFT.GG"
+  },
+  "48813": {
+    "matchId": 48813,
+    "slug": "t1-vs-nongshim-redforce-2022-01-27",
+    "eventId": "1880",
+    "title": "T1 vs Nongshim RedForce | LCK 2022 Spring | January 27th, 2022 | RFT.GG"
+  },
+  "48818": {
+    "matchId": 48818,
+    "slug": "damwon-gaming-vs-t1-2022-01-30",
+    "eventId": "1880",
+    "title": "DAMWON Gaming vs T1 | LCK 2022 Spring | January 30th, 2022 | RFT.GG"
+  },
+  "48820": {
+    "matchId": 48820,
+    "slug": "t1-vs-hanwha-life-esports-2022-02-09",
+    "eventId": "1880",
+    "title": "T1 vs Hanwha Life Esports | LCK 2022 Spring | February 9th, 2022 | RFT.GG"
+  },
+  "48826": {
+    "matchId": 48826,
+    "slug": "t1-vs-gen.g-esports-2022-02-12",
+    "eventId": "1880",
+    "title": "T1 vs Gen.G Esports | LCK 2022 Spring | February 12th, 2022 | RFT.GG"
+  },
+  "48834": {
+    "matchId": 48834,
+    "slug": "kt-rolster-vs-t1-2022-02-18",
+    "eventId": "1880",
+    "title": "KT Rolster vs T1 | LCK 2022 Spring | February 18th, 2022 | RFT.GG"
+  },
+  "48839": {
+    "matchId": 48839,
+    "slug": "nongshim-redforce-vs-t1-2022-02-20",
+    "eventId": "1880",
+    "title": "Nongshim RedForce vs T1 | LCK 2022 Spring | February 20th, 2022 | RFT.GG"
+  },
+  "48841": {
+    "matchId": 48841,
+    "slug": "t1-vs-damwon-gaming-2022-02-23",
+    "eventId": "1880",
+    "title": "T1 vs DAMWON Gaming | LCK 2022 Spring | February 23rd, 2022 | RFT.GG"
+  },
+  "48847": {
+    "matchId": 48847,
+    "slug": "hanwha-life-esports-vs-t1-2022-02-26",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs T1 | LCK 2022 Spring | February 26th, 2022 | RFT.GG"
+  },
+  "48852": {
+    "matchId": 48852,
+    "slug": "gen.g-esports-vs-t1-2022-03-03",
+    "eventId": "1880",
+    "title": "Gen.G Esports vs T1 | LCK 2022 Spring | March 3rd, 2022 | RFT.GG"
+  },
+  "48859": {
+    "matchId": 48859,
+    "slug": "t1-vs-kt-rolster-2022-03-06",
+    "eventId": "1880",
+    "title": "T1 vs KT Rolster | LCK 2022 Spring | March 6th, 2022 | RFT.GG"
+  },
+  "48864": {
+    "matchId": 48864,
+    "slug": "freecs-vs-t1-2022-03-11",
+    "eventId": "1880",
+    "title": "Freecs vs T1 | LCK 2022 Spring | March 11th, 2022 | RFT.GG"
+  },
+  "48868": {
+    "matchId": 48868,
+    "slug": "t1-vs-brion-esports-2022-03-13",
+    "eventId": "1880",
+    "title": "T1 vs Brion Esports | LCK 2022 Spring | March 13th, 2022 | RFT.GG"
+  },
+  "48874": {
+    "matchId": 48874,
+    "slug": "t1-vs-sandbox-gaming-2022-03-18",
+    "eventId": "1880",
+    "title": "T1 vs SANDBOX Gaming | LCK 2022 Spring | March 18th, 2022 | RFT.GG"
+  },
+  "48879": {
+    "matchId": 48879,
+    "slug": "t1-vs-drx-2022-03-20",
+    "eventId": "1880",
+    "title": "T1 vs DRX | LCK 2022 Spring | March 20th, 2022 | RFT.GG"
+  },
+  "48787": {
+    "matchId": 48787,
+    "slug": "t1-vs-freecs-2022-03-26",
+    "eventId": "1880",
+    "title": "T1 vs Freecs | LCK 2022 Spring | March 26th, 2022 | RFT.GG"
+  },
+  "48789": {
+    "matchId": 48789,
+    "slug": "t1-vs-gen.g-esports-2022-04-02",
+    "eventId": "1880",
+    "title": "T1 vs Gen.G Esports | LCK 2022 Spring | April 2nd, 2022 | RFT.GG"
+  },
+  "46848": {
+    "matchId": 46848,
+    "slug": "t1-vs-cnj-esports-2022-05-10",
+    "eventId": "1880",
+    "title": "T1 vs Saigon Buffalo | MSI 2022 | May 10th, 2022 | RFT.GG"
+  },
+  "46857": {
+    "matchId": 46857,
+    "slug": "team-aze-vs-t1-2022-05-11",
+    "eventId": "1880",
+    "title": "Team Aze vs T1 | MSI 2022 | May 11th, 2022 | RFT.GG"
+  },
+  "46865": {
+    "matchId": 46865,
+    "slug": "t1-vs-detonation-focusme-2022-05-12",
+    "eventId": "1880",
+    "title": "T1 vs DetonatioN FocusMe | MSI 2022 | May 12th, 2022 | RFT.GG"
+  },
+  "46882": {
+    "matchId": 46882,
+    "slug": "detonation-focusme-vs-t1-2022-05-15",
+    "eventId": "1880",
+    "title": "DetonatioN FocusMe vs T1 | MSI 2022 | May 15th, 2022 | RFT.GG"
+  },
+  "46884": {
+    "matchId": 46884,
+    "slug": "t1-vs-team-aze-2022-05-15",
+    "eventId": "1880",
+    "title": "T1 vs Team Aze | MSI 2022 | May 15th, 2022 | RFT.GG"
+  },
+  "46886": {
+    "matchId": 46886,
+    "slug": "cnj-esports-vs-t1-2022-05-15",
+    "eventId": "1880",
+    "title": "Saigon Buffalo vs T1 | MSI 2022 | May 15th, 2022 | RFT.GG"
+  },
+  "46887": {
+    "matchId": 46887,
+    "slug": "t1-vs-g2-esports-2022-05-20",
+    "eventId": "1880",
+    "title": "T1 vs G2 Esports | MSI 2022 | May 20th, 2022 | RFT.GG"
+  },
+  "46892": {
+    "matchId": 46892,
+    "slug": "psg-talon-vs-t1-2022-05-20",
+    "eventId": "1880",
+    "title": "PSG Talon vs T1 | MSI 2022 | May 20th, 2022 | RFT.GG"
+  },
+  "46895": {
+    "matchId": 46895,
+    "slug": "t1-vs-cnj-esports-2022-05-21",
+    "eventId": "1880",
+    "title": "T1 vs Saigon Buffalo | MSI 2022 | May 21st, 2022 | RFT.GG"
+  },
+  "46897": {
+    "matchId": 46897,
+    "slug": "royal-never-give-up-vs-t1-2022-05-21",
+    "eventId": "1880",
+    "title": "Royal Never Give Up vs T1 | MSI 2022 | May 21st, 2022 | RFT.GG"
+  },
+  "46899": {
+    "matchId": 46899,
+    "slug": "evil-geniuses-vs-t1-2022-05-22",
+    "eventId": "1880",
+    "title": "Evil Geniuses vs T1 | MSI 2022 | May 22nd, 2022 | RFT.GG"
+  },
+  "46902": {
+    "matchId": 46902,
+    "slug": "t1-vs-psg-talon-2022-05-22",
+    "eventId": "1880",
+    "title": "T1 vs PSG Talon | MSI 2022 | May 22nd, 2022 | RFT.GG"
+  },
+  "46906": {
+    "matchId": 46906,
+    "slug": "t1-vs-evil-geniuses-2022-05-23",
+    "eventId": "1880",
+    "title": "T1 vs Evil Geniuses | MSI 2022 | May 23rd, 2022 | RFT.GG"
+  },
+  "46908": {
+    "matchId": 46908,
+    "slug": "g2-esports-vs-t1-2022-05-23",
+    "eventId": "1880",
+    "title": "G2 Esports vs T1 | MSI 2022 | May 23rd, 2022 | RFT.GG"
+  },
+  "46913": {
+    "matchId": 46913,
+    "slug": "cnj-esports-vs-t1-2022-05-24",
+    "eventId": "1880",
+    "title": "Saigon Buffalo vs T1 | MSI 2022 | May 24th, 2022 | RFT.GG"
+  },
+  "46916": {
+    "matchId": 46916,
+    "slug": "t1-vs-royal-never-give-up-2022-05-24",
+    "eventId": "1880",
+    "title": "T1 vs Royal Never Give Up | MSI 2022 | May 24th, 2022 | RFT.GG"
+  },
+  "46918": {
+    "matchId": 46918,
+    "slug": "t1-vs-g2-esports-2022-05-28",
+    "eventId": "1880",
+    "title": "T1 vs G2 Esports | MSI 2022 | May 28th, 2022 | RFT.GG"
+  },
+  "46919": {
+    "matchId": 46919,
+    "slug": "royal-never-give-up-vs-t1-2022-05-29",
+    "eventId": "1880",
+    "title": "Royal Never Give Up vs T1 | MSI 2022 | May 29th, 2022 | RFT.GG"
+  },
+  "48891": {
+    "matchId": 48891,
+    "slug": "t1-vs-nongshim-redforce-2022-06-17",
+    "eventId": "1880",
+    "title": "T1 vs Nongshim RedForce | LCK 2022 Summer | June 17th, 2022 | RFT.GG"
+  },
+  "48894": {
+    "matchId": 48894,
+    "slug": "kt-rolster-vs-t1-2022-06-19",
+    "eventId": "1880",
+    "title": "KT Rolster vs T1 | LCK 2022 Summer | June 19th, 2022 | RFT.GG"
+  },
+  "48899": {
+    "matchId": 48899,
+    "slug": "t1-vs-sandbox-gaming-2022-06-23",
+    "eventId": "1880",
+    "title": "T1 vs SANDBOX Gaming | LCK 2022 Summer | June 23rd, 2022 | RFT.GG"
+  },
+  "48902": {
+    "matchId": 48902,
+    "slug": "damwon-gaming-vs-t1-2022-06-25",
+    "eventId": "1880",
+    "title": "DAMWON Gaming vs T1 | LCK 2022 Summer | June 25th, 2022 | RFT.GG"
+  },
+  "48907": {
+    "matchId": 48907,
+    "slug": "freecs-vs-t1-2022-06-29",
+    "eventId": "1880",
+    "title": "Freecs vs T1 | LCK 2022 Summer | June 29th, 2022 | RFT.GG"
+  },
+  "48911": {
+    "matchId": 48911,
+    "slug": "t1-vs-drx-2022-07-01",
+    "eventId": "1880",
+    "title": "T1 vs DRX | LCK 2022 Summer | July 1st, 2022 | RFT.GG"
+  },
+  "48920": {
+    "matchId": 48920,
+    "slug": "gen.g-esports-vs-t1-2022-07-08",
+    "eventId": "1880",
+    "title": "Gen.G Esports vs T1 | LCK 2022 Summer | July 8th, 2022 | RFT.GG"
+  },
+  "48925": {
+    "matchId": 48925,
+    "slug": "t1-vs-brion-esports-2022-07-10",
+    "eventId": "1880",
+    "title": "T1 vs Brion Esports | LCK 2022 Summer | July 10th, 2022 | RFT.GG"
+  },
+  "48926": {
+    "matchId": 48926,
+    "slug": "hanwha-life-esports-vs-t1-2022-07-13",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs T1 | LCK 2022 Summer | July 13th, 2022 | RFT.GG"
+  },
+  "48933": {
+    "matchId": 48933,
+    "slug": "drx-vs-t1-2022-07-16",
+    "eventId": "1880",
+    "title": "DRX vs T1 | LCK 2022 Summer | July 16th, 2022 | RFT.GG"
+  },
+  "48938": {
+    "matchId": 48938,
+    "slug": "t1-vs-freecs-2022-07-21",
+    "eventId": "1880",
+    "title": "T1 vs Freecs | LCK 2022 Summer | July 21st, 2022 | RFT.GG"
+  },
+  "48942": {
+    "matchId": 48942,
+    "slug": "brion-esports-vs-t1-2022-07-23",
+    "eventId": "1880",
+    "title": "Brion Esports vs T1 | LCK 2022 Summer | July 23rd, 2022 | RFT.GG"
+  },
+  "48946": {
+    "matchId": 48946,
+    "slug": "t1-vs-kt-rolster-2022-07-27",
+    "eventId": "1880",
+    "title": "T1 vs KT Rolster | LCK 2022 Summer | July 27th, 2022 | RFT.GG"
+  },
+  "48953": {
+    "matchId": 48953,
+    "slug": "t1-vs-gen.g-esports-2022-07-30",
+    "eventId": "1880",
+    "title": "T1 vs Gen.G Esports | LCK 2022 Summer | July 30th, 2022 | RFT.GG"
+  },
+  "48959": {
+    "matchId": 48959,
+    "slug": "t1-vs-hanwha-life-esports-2022-08-04",
+    "eventId": "1880",
+    "title": "T1 vs Hanwha Life Esports | LCK 2022 Summer | August 4th, 2022 | RFT.GG"
+  },
+  "48964": {
+    "matchId": 48964,
+    "slug": "nongshim-redforce-vs-t1-2022-08-07",
+    "eventId": "1880",
+    "title": "Nongshim RedForce vs T1 | LCK 2022 Summer | August 7th, 2022 | RFT.GG"
+  },
+  "48967": {
+    "matchId": 48967,
+    "slug": "sandbox-gaming-vs-t1-2022-08-10",
+    "eventId": "1880",
+    "title": "SANDBOX Gaming vs T1 | LCK 2022 Summer | August 10th, 2022 | RFT.GG"
+  },
+  "48973": {
+    "matchId": 48973,
+    "slug": "t1-vs-damwon-gaming-2022-08-13",
+    "eventId": "1880",
+    "title": "T1 vs DAMWON Gaming | LCK 2022 Summer | August 13th, 2022 | RFT.GG"
+  },
+  "48884": {
+    "matchId": 48884,
+    "slug": "t1-vs-damwon-gaming-2022-08-21",
+    "eventId": "1880",
+    "title": "T1 vs DAMWON Gaming | LCK 2022 Summer | August 21st, 2022 | RFT.GG"
+  },
+  "48885": {
+    "matchId": 48885,
+    "slug": "gen.g-esports-vs-t1-2022-08-28",
+    "eventId": "1880",
+    "title": "Gen.G Esports vs T1 | LCK 2022 Summer | August 28th, 2022 | RFT.GG"
+  },
+  "46924": {
+    "matchId": 46924,
+    "slug": "t1-vs-edward-gaming-2022-10-08",
+    "eventId": "1880",
+    "title": "T1 vs EDward Gaming | World Championship 2022 | October 8th, 2022 | RFT.GG"
+  },
+  "46928": {
+    "matchId": 46928,
+    "slug": "fnatic-vs-t1-2022-10-08",
+    "eventId": "1880",
+    "title": "Fnatic vs T1 | World Championship 2022 | October 8th, 2022 | RFT.GG"
+  },
+  "46935": {
+    "matchId": 46935,
+    "slug": "cloud9-vs-t1-2022-10-10",
+    "eventId": "1880",
+    "title": "Cloud9 vs T1 | World Championship 2022 | October 10th, 2022 | RFT.GG"
+  },
+  "46945": {
+    "matchId": 46945,
+    "slug": "t1-vs-fnatic-2022-10-13",
+    "eventId": "1880",
+    "title": "T1 vs Fnatic | World Championship 2022 | October 13th, 2022 | RFT.GG"
+  },
+  "46948": {
+    "matchId": 46948,
+    "slug": "t1-vs-cloud9-2022-10-13",
+    "eventId": "1880",
+    "title": "T1 vs Cloud9 | World Championship 2022 | October 13th, 2022 | RFT.GG"
+  },
+  "46949": {
+    "matchId": 46949,
+    "slug": "edward-gaming-vs-t1-2022-10-14",
+    "eventId": "1880",
+    "title": "EDward Gaming vs T1 | World Championship 2022 | October 14th, 2022 | RFT.GG"
+  },
+  "46972": {
+    "matchId": 46972,
+    "slug": "t1-vs-royal-never-give-up-2022-10-21",
+    "eventId": "1880",
+    "title": "T1 vs Royal Never Give Up | World Championship 2022 | October 21st, 2022 | RFT.GG"
+  },
+  "46975": {
+    "matchId": 46975,
+    "slug": "jd-gaming-vs-t1-2022-10-29",
+    "eventId": "1880",
+    "title": "JD Gaming vs T1 | World Championship 2022 | October 29th, 2022 | RFT.GG"
+  },
+  "46977": {
+    "matchId": 46977,
+    "slug": "t1-vs-drx-2022-11-06",
+    "eventId": "1880",
+    "title": "T1 vs DRX | World Championship 2022 | November 6th, 2022 | RFT.GG"
+  },
+  "53619": {
+    "matchId": 53619,
+    "slug": "gen.g-esports-vs-t1-2023-05-13",
+    "eventId": "1880",
+    "title": "Gen.G Esports vs T1 | MSI 2023 | May 13th, 2023 | RFT.GG"
+  },
+  "53625": {
+    "matchId": 53625,
+    "slug": "t1-vs-jd-gaming-2023-05-18",
+    "eventId": "1880",
+    "title": "T1 vs JD Gaming | MSI 2023 | May 18th, 2023 | RFT.GG"
+  },
+  "53627": {
+    "matchId": 53627,
+    "slug": "t1-vs-bilibili-gaming-2023-05-20",
+    "eventId": "1880",
+    "title": "T1 vs Bilibili Gaming | MSI 2023 | May 20th, 2023 | RFT.GG"
+  },
+  "55572": {
+    "matchId": 55572,
+    "slug": "t1-vs-hanwha-life-esports-2023-06-09",
+    "eventId": "1880",
+    "title": "T1 vs Hanwha Life Esports | LCK 2023 Summer | June 9th, 2023 | RFT.GG"
+  },
+  "55576": {
+    "matchId": 55576,
+    "slug": "gen.g-esports-vs-t1-2023-06-11",
+    "eventId": "1880",
+    "title": "Gen.G Esports vs T1 | LCK 2023 Summer | June 11th, 2023 | RFT.GG"
+  },
+  "55579": {
+    "matchId": 55579,
+    "slug": "t1-vs-sandbox-gaming-2023-06-15",
+    "eventId": "1880",
+    "title": "T1 vs SANDBOX Gaming | LCK 2023 Summer | June 15th, 2023 | RFT.GG"
+  },
+  "55584": {
+    "matchId": 55584,
+    "slug": "brion-vs-t1-2023-06-17",
+    "eventId": "1880",
+    "title": "BRION vs T1 | LCK 2023 Summer | June 17th, 2023 | RFT.GG"
+  },
+  "55588": {
+    "matchId": 55588,
+    "slug": "freecs-vs-t1-2023-06-21",
+    "eventId": "1880",
+    "title": "Freecs vs T1 | LCK 2023 Summer | June 21st, 2023 | RFT.GG"
+  },
+  "55594": {
+    "matchId": 55594,
+    "slug": "t1-vs-kt-rolster-2023-06-24",
+    "eventId": "1880",
+    "title": "T1 vs KT Rolster | LCK 2023 Summer | June 24th, 2023 | RFT.GG"
+  },
+  "55602": {
+    "matchId": 55602,
+    "slug": "t1-vs-dplus-2023-06-30",
+    "eventId": "1880",
+    "title": "T1 vs Dplus | LCK 2023 Summer | June 30th, 2023 | RFT.GG"
+  },
+  "55606": {
+    "matchId": 55606,
+    "slug": "nongshim-redforce-vs-t1-2023-07-02",
+    "eventId": "1880",
+    "title": "Nongshim RedForce vs T1 | LCK 2023 Summer | July 2nd, 2023 | RFT.GG"
+  },
+  "55608": {
+    "matchId": 55608,
+    "slug": "drx-vs-t1-2023-07-05",
+    "eventId": "1880",
+    "title": "DRX vs T1 | LCK 2023 Summer | July 5th, 2023 | RFT.GG"
+  },
+  "55613": {
+    "matchId": 55613,
+    "slug": "t1-vs-gen.g-esports-2023-07-08",
+    "eventId": "1880",
+    "title": "T1 vs Gen.G Esports | LCK 2023 Summer | July 8th, 2023 | RFT.GG"
+  },
+  "55621": {
+    "matchId": 55621,
+    "slug": "t1-vs-nongshim-redforce-2023-07-14",
+    "eventId": "1880",
+    "title": "T1 vs Nongshim RedForce | LCK 2023 Summer | July 14th, 2023 | RFT.GG"
+  },
+  "55625": {
+    "matchId": 55625,
+    "slug": "dplus-vs-t1-2023-07-16",
+    "eventId": "1880",
+    "title": "Dplus vs T1 | LCK 2023 Summer | July 16th, 2023 | RFT.GG"
+  },
+  "55632": {
+    "matchId": 55632,
+    "slug": "hanwha-life-esports-vs-t1-2023-07-21",
+    "eventId": "1880",
+    "title": "Hanwha Life Esports vs T1 | LCK 2023 Summer | July 21st, 2023 | RFT.GG"
+  },
+  "55635": {
+    "matchId": 55635,
+    "slug": "t1-vs-brion-2023-07-23",
+    "eventId": "1880",
+    "title": "T1 vs BRION | LCK 2023 Summer | July 23rd, 2023 | RFT.GG"
+  },
+  "55639": {
+    "matchId": 55639,
+    "slug": "t1-vs-drx-2023-07-27",
+    "eventId": "1880",
+    "title": "T1 vs DRX | LCK 2023 Summer | July 27th, 2023 | RFT.GG"
+  },
+  "55643": {
+    "matchId": 55643,
+    "slug": "kt-rolster-vs-t1-2023-07-29",
+    "eventId": "1880",
+    "title": "KT Rolster vs T1 | LCK 2023 Summer | July 29th, 2023 | RFT.GG"
+  },
+  "48797": {
+    "matchId": 48797,
+    "slug": "afreeca-freecs-vs-kt-rolster-2022-01-15",
+    "eventId": "3",
+    "title": "Freecs vs KT Rolster | LCK 2022 Spring | January 15th, 2022 | RFT.GG"
+  },
+  "48804": {
+    "matchId": 48804,
+    "slug": "sandbox-gaming-vs-afreeca-freecs-2022-01-21",
+    "eventId": "3",
+    "title": "SANDBOX Gaming vs Freecs | LCK 2022 Spring | January 21st, 2022 | RFT.GG"
+  },
+  "48809": {
+    "matchId": 48809,
+    "slug": "afreeca-freecs-vs-drx-2022-01-23",
+    "eventId": "3",
+    "title": "Freecs vs DRX | LCK 2022 Spring | January 23rd, 2022 | RFT.GG"
+  },
+  "48810": {
+    "matchId": 48810,
+    "slug": "gen.g-esports-vs-freecs-2022-01-26",
+    "eventId": "3",
+    "title": "Gen.G Esports vs Freecs | LCK 2022 Spring | January 26th, 2022 | RFT.GG"
+  },
+  "48815": {
+    "matchId": 48815,
+    "slug": "brion-esports-vs-freecs-2022-01-28",
+    "eventId": "3",
+    "title": "Brion Esports vs Freecs | LCK 2022 Spring | January 28th, 2022 | RFT.GG"
+  },
+  "48822": {
+    "matchId": 48822,
+    "slug": "damwon-gaming-vs-freecs-2022-02-10",
+    "eventId": "3",
+    "title": "DAMWON Gaming vs Freecs | LCK 2022 Spring | February 10th, 2022 | RFT.GG"
+  },
+  "48828": {
+    "matchId": 48828,
+    "slug": "freecs-vs-nongshim-redforce-2022-02-13",
+    "eventId": "3",
+    "title": "Freecs vs Nongshim RedForce | LCK 2022 Spring | February 13th, 2022 | RFT.GG"
+  },
+  "48832": {
+    "matchId": 48832,
+    "slug": "hanwha-life-esports-vs-freecs-2022-02-17",
+    "eventId": "3",
+    "title": "Hanwha Life Esports vs Freecs | LCK 2022 Spring | February 17th, 2022 | RFT.GG"
+  },
+  "48837": {
+    "matchId": 48837,
+    "slug": "freecs-vs-brion-esports-2022-02-19",
+    "eventId": "3",
+    "title": "Freecs vs Brion Esports | LCK 2022 Spring | February 19th, 2022 | RFT.GG"
+  },
+  "48840": {
+    "matchId": 48840,
+    "slug": "kt-rolster-vs-freecs-2022-02-23",
+    "eventId": "3",
+    "title": "KT Rolster vs Freecs | LCK 2022 Spring | February 23rd, 2022 | RFT.GG"
+  },
+  "48845": {
+    "matchId": 48845,
+    "slug": "freecs-vs-damwon-gaming-2022-02-25",
+    "eventId": "3",
+    "title": "Freecs vs DAMWON Gaming | LCK 2022 Spring | February 25th, 2022 | RFT.GG"
+  },
+  "48853": {
+    "matchId": 48853,
+    "slug": "nongshim-redforce-vs-freecs-2022-03-03",
+    "eventId": "3",
+    "title": "Nongshim RedForce vs Freecs | LCK 2022 Spring | March 3rd, 2022 | RFT.GG"
+  },
+  "48856": {
+    "matchId": 48856,
+    "slug": "freecs-vs-gen.g-esports-2022-03-05",
+    "eventId": "3",
+    "title": "Freecs vs Gen.G Esports | LCK 2022 Spring | March 5th, 2022 | RFT.GG"
+  },
+  "48869": {
+    "matchId": 48869,
+    "slug": "drx-vs-freecs-2022-03-13",
+    "eventId": "3",
+    "title": "DRX vs Freecs | LCK 2022 Spring | March 13th, 2022 | RFT.GG"
+  },
+  "48873": {
+    "matchId": 48873,
+    "slug": "freecs-vs-hanwha-life-esports-2022-03-17",
+    "eventId": "3",
+    "title": "Freecs vs Hanwha Life Esports | LCK 2022 Spring | March 17th, 2022 | RFT.GG"
+  },
+  "48878": {
+    "matchId": 48878,
+    "slug": "freecs-vs-sandbox-gaming-2022-03-20",
+    "eventId": "3",
+    "title": "Freecs vs SANDBOX Gaming | LCK 2022 Spring | March 20th, 2022 | RFT.GG"
+  },
+  "48880": {
+    "matchId": 48880,
+    "slug": "brion-esports-vs-freecs-2022-03-20",
+    "eventId": "3",
+    "title": "Brion Esports vs Freecs | LCK 2022 Spring | March 20th, 2022 | RFT.GG"
+  },
+  "48786": {
+    "matchId": 48786,
+    "slug": "drx-vs-freecs-2022-03-24",
+    "eventId": "3",
+    "title": "DRX vs Freecs | LCK 2022 Spring | March 24th, 2022 | RFT.GG"
+  },
+  "48886": {
+    "matchId": 48886,
+    "slug": "freecs-vs-hanwha-life-esports-2022-06-15",
+    "eventId": "3",
+    "title": "Freecs vs Hanwha Life Esports | LCK 2022 Summer | June 15th, 2022 | RFT.GG"
+  },
+  "48890": {
+    "matchId": 48890,
+    "slug": "sandbox-gaming-vs-freecs-2022-06-17",
+    "eventId": "3",
+    "title": "SANDBOX Gaming vs Freecs | LCK 2022 Summer | June 17th, 2022 | RFT.GG"
+  },
+  "48898": {
+    "matchId": 48898,
+    "slug": "freecs-vs-nongshim-redforce-2022-06-23",
+    "eventId": "3",
+    "title": "Freecs vs Nongshim RedForce | LCK 2022 Summer | June 23rd, 2022 | RFT.GG"
+  },
+  "48905": {
+    "matchId": 48905,
+    "slug": "drx-vs-freecs-2022-06-26",
+    "eventId": "3",
+    "title": "DRX vs Freecs | LCK 2022 Summer | June 26th, 2022 | RFT.GG"
+  },
+  "48913": {
+    "matchId": 48913,
+    "slug": "gen.g-esports-vs-freecs-2022-07-02",
+    "eventId": "3",
+    "title": "Gen.G Esports vs Freecs | LCK 2022 Summer | July 2nd, 2022 | RFT.GG"
+  },
+  "48917": {
+    "matchId": 48917,
+    "slug": "freecs-vs-brion-esports-2022-07-06",
+    "eventId": "3",
+    "title": "Freecs vs Brion Esports | LCK 2022 Summer | July 6th, 2022 | RFT.GG"
+  },
+  "48921": {
+    "matchId": 48921,
+    "slug": "freecs-vs-kt-rolster-2022-07-08",
+    "eventId": "3",
+    "title": "Freecs vs KT Rolster | LCK 2022 Summer | July 8th, 2022 | RFT.GG"
+  },
+  "48929": {
+    "matchId": 48929,
+    "slug": "damwon-gaming-vs-freecs-2022-07-14",
+    "eventId": "3",
+    "title": "DAMWON Gaming vs Freecs | LCK 2022 Summer | July 14th, 2022 | RFT.GG"
+  },
+  "48932": {
+    "matchId": 48932,
+    "slug": "kt-rolster-vs-freecs-2022-07-16",
+    "eventId": "3",
+    "title": "KT Rolster vs Freecs | LCK 2022 Summer | July 16th, 2022 | RFT.GG"
+  },
+  "48944": {
+    "matchId": 48944,
+    "slug": "freecs-vs-sandbox-gaming-2022-07-24",
+    "eventId": "3",
+    "title": "Freecs vs SANDBOX Gaming | LCK 2022 Summer | July 24th, 2022 | RFT.GG"
+  },
+  "48950": {
+    "matchId": 48950,
+    "slug": "brion-esports-vs-freecs-2022-07-29",
+    "eventId": "3",
+    "title": "Brion Esports vs Freecs | LCK 2022 Summer | July 29th, 2022 | RFT.GG"
+  },
+  "48954": {
+    "matchId": 48954,
+    "slug": "hanwha-life-esports-vs-freecs-2022-07-31",
+    "eventId": "3",
+    "title": "Hanwha Life Esports vs Freecs | LCK 2022 Summer | July 31st, 2022 | RFT.GG"
+  },
+  "48957": {
+    "matchId": 48957,
+    "slug": "freecs-vs-gen.g-esports-2022-08-03",
+    "eventId": "3",
+    "title": "Freecs vs Gen.G Esports | LCK 2022 Summer | August 3rd, 2022 | RFT.GG"
+  },
+  "48965": {
+    "matchId": 48965,
+    "slug": "freecs-vs-drx-2022-08-07",
+    "eventId": "3",
+    "title": "Freecs vs DRX | LCK 2022 Summer | August 7th, 2022 | RFT.GG"
+  },
+  "48968": {
+    "matchId": 48968,
+    "slug": "freecs-vs-damwon-gaming-2022-08-11",
+    "eventId": "3",
+    "title": "Freecs vs DAMWON Gaming | LCK 2022 Summer | August 11th, 2022 | RFT.GG"
+  },
+  "48975": {
+    "matchId": 48975,
+    "slug": "nongshim-redforce-vs-freecs-2022-08-14",
+    "eventId": "3",
+    "title": "Nongshim RedForce vs Freecs | LCK 2022 Summer | August 14th, 2022 | RFT.GG"
+  },
+  "55478": {
+    "matchId": 55478,
+    "slug": "nongshim-redforce-vs-kt-rolster-2023-01-22",
+    "eventId": "3",
+    "title": "Nongshim RedForce vs KT Rolster | LCK 2023 Spring | January 22nd, 2023 | RFT.GG"
+  },
+  "55480": {
+    "matchId": 55480,
+    "slug": "sandbox-gaming-vs-kt-rolster-2023-01-25",
+    "eventId": "3",
+    "title": "SANDBOX Gaming vs KT Rolster | LCK 2023 Spring | January 25th, 2023 | RFT.GG"
+  },
+  "55484": {
+    "matchId": 55484,
+    "slug": "kt-rolster-vs-hanwha-life-esports-2023-01-27",
+    "eventId": "3",
+    "title": "KT Rolster vs Hanwha Life Esports | LCK 2023 Spring | January 27th, 2023 | RFT.GG"
+  },
+  "55493": {
+    "matchId": 55493,
+    "slug": "freecs-vs-kt-rolster-2023-02-03",
+    "eventId": "3",
+    "title": "Freecs vs KT Rolster | LCK 2023 Spring | February 3rd, 2023 | RFT.GG"
+  },
+  "55497": {
+    "matchId": 55497,
+    "slug": "kt-rolster-vs-brion-2023-02-05",
+    "eventId": "3",
+    "title": "KT Rolster vs BRION | LCK 2023 Spring | February 5th, 2023 | RFT.GG"
+  },
+  "55501": {
+    "matchId": 55501,
+    "slug": "kt-rolster-vs-dplus-2023-02-09",
+    "eventId": "3",
+    "title": "KT Rolster vs Dplus | LCK 2023 Spring | February 9th, 2023 | RFT.GG"
+  },
+  "55506": {
+    "matchId": 55506,
+    "slug": "kt-rolster-vs-gen.g-esports-2023-02-11",
+    "eventId": "3",
+    "title": "KT Rolster vs Gen.G Esports | LCK 2023 Spring | February 11th, 2023 | RFT.GG"
+  },
+  "55509": {
+    "matchId": 55509,
+    "slug": "kt-rolster-vs-drx-2023-02-15",
+    "eventId": "3",
+    "title": "KT Rolster vs DRX | LCK 2023 Spring | February 15th, 2023 | RFT.GG"
+  },
+  "55516": {
+    "matchId": 55516,
+    "slug": "nongshim-redforce-vs-kt-rolster-2023-02-18",
+    "eventId": "3",
+    "title": "Nongshim RedForce vs KT Rolster | LCK 2023 Spring | February 18th, 2023 | RFT.GG"
+  },
+  "55520": {
+    "matchId": 55520,
+    "slug": "kt-rolster-vs-dplus-2023-02-22",
+    "eventId": "3",
+    "title": "KT Rolster vs Dplus | LCK 2023 Spring | February 22nd, 2023 | RFT.GG"
+  },
+  "55531": {
+    "matchId": 55531,
+    "slug": "kt-rolster-vs-gen.g-esports-2023-03-02",
+    "eventId": "3",
+    "title": "KT Rolster vs Gen.G Esports | LCK 2023 Spring | March 2nd, 2023 | RFT.GG"
+  },
+  "55537": {
+    "matchId": 55537,
+    "slug": "sandbox-gaming-vs-kt-rolster-2023-03-05",
+    "eventId": "3",
+    "title": "SANDBOX Gaming vs KT Rolster | LCK 2023 Spring | March 5th, 2023 | RFT.GG"
+  },
+  "55540": {
+    "matchId": 55540,
+    "slug": "kt-rolster-vs-hanwha-life-esports-2023-03-08",
+    "eventId": "3",
+    "title": "KT Rolster vs Hanwha Life Esports | LCK 2023 Spring | March 8th, 2023 | RFT.GG"
+  },
+  "55544": {
+    "matchId": 55544,
+    "slug": "kt-rolster-vs-brion-2023-03-10",
+    "eventId": "3",
+    "title": "KT Rolster vs BRION | LCK 2023 Spring | March 10th, 2023 | RFT.GG"
+  },
+  "55553": {
+    "matchId": 55553,
+    "slug": "freecs-vs-kt-rolster-2023-03-17",
+    "eventId": "3",
+    "title": "Freecs vs KT Rolster | LCK 2023 Spring | March 17th, 2023 | RFT.GG"
+  },
+  "55558": {
+    "matchId": 55558,
+    "slug": "kt-rolster-vs-drx-2023-03-19",
+    "eventId": "3",
+    "title": "KT Rolster vs DRX | LCK 2023 Spring | March 19th, 2023 | RFT.GG"
+  },
+  "55461": {
+    "matchId": 55461,
+    "slug": "kt-rolster-vs-sandbox-gaming-2023-03-22",
+    "eventId": "3",
+    "title": "KT Rolster vs SANDBOX Gaming | LCK 2023 Spring | March 22nd, 2023 | RFT.GG"
+  },
+  "55466": {
+    "matchId": 55466,
+    "slug": "kt-rolster-vs-hanwha-life-esports-2023-04-02",
+    "eventId": "3",
+    "title": "KT Rolster vs Hanwha Life Esports | LCK 2023 Spring | April 2nd, 2023 | RFT.GG"
+  },
+  "55467": {
+    "matchId": 55467,
+    "slug": "gen.g-esports-vs-kt-rolster-2023-04-08",
+    "eventId": "3",
+    "title": "Gen.G Esports vs KT Rolster | LCK 2023 Spring | April 8th, 2023 | RFT.GG"
+  },
+  "55567": {
+    "matchId": 55567,
+    "slug": "kt-rolster-vs-hanwha-life-esports-2023-06-07",
+    "eventId": "3",
+    "title": "KT Rolster vs Hanwha Life Esports | LCK 2023 Summer | June 7th, 2023 | RFT.GG"
+  },
+  "55571": {
+    "matchId": 55571,
+    "slug": "kt-rolster-vs-gen.g-esports-2023-06-09",
+    "eventId": "3",
+    "title": "KT Rolster vs Gen.G Esports | LCK 2023 Summer | June 9th, 2023 | RFT.GG"
+  },
+  "55582": {
+    "matchId": 55582,
+    "slug": "drx-vs-kt-rolster-2023-06-16",
+    "eventId": "3",
+    "title": "DRX vs KT Rolster | LCK 2023 Summer | June 16th, 2023 | RFT.GG"
+  },
+  "55585": {
+    "matchId": 55585,
+    "slug": "sandbox-gaming-vs-kt-rolster-2023-06-18",
+    "eventId": "3",
+    "title": "SANDBOX Gaming vs KT Rolster | LCK 2023 Summer | June 18th, 2023 | RFT.GG"
+  },
+  "55590": {
+    "matchId": 55590,
+    "slug": "kt-rolster-vs-dplus-2023-06-22",
+    "eventId": "3",
+    "title": "KT Rolster vs Dplus | LCK 2023 Summer | June 22nd, 2023 | RFT.GG"
+  },
+  "55598": {
+    "matchId": 55598,
+    "slug": "kt-rolster-vs-freecs-2023-06-28",
+    "eventId": "3",
+    "title": "KT Rolster vs Freecs | LCK 2023 Summer | June 28th, 2023 | RFT.GG"
+  },
+  "55601": {
+    "matchId": 55601,
+    "slug": "kt-rolster-vs-nongshim-redforce-2023-06-30",
+    "eventId": "3",
+    "title": "KT Rolster vs Nongshim RedForce | LCK 2023 Summer | June 30th, 2023 | RFT.GG"
+  },
+  "55611": {
+    "matchId": 55611,
+    "slug": "brion-vs-kt-rolster-2023-07-07",
+    "eventId": "3",
+    "title": "BRION vs KT Rolster | LCK 2023 Summer | July 7th, 2023 | RFT.GG"
+  },
+  "55615": {
+    "matchId": 55615,
+    "slug": "kt-rolster-vs-brion-2023-07-09",
+    "eventId": "3",
+    "title": "KT Rolster vs BRION | LCK 2023 Summer | July 9th, 2023 | RFT.GG"
+  },
+  "55619": {
+    "matchId": 55619,
+    "slug": "hanwha-life-esports-vs-kt-rolster-2023-07-13",
+    "eventId": "3",
+    "title": "Hanwha Life Esports vs KT Rolster | LCK 2023 Summer | July 13th, 2023 | RFT.GG"
+  },
+  "55626": {
+    "matchId": 55626,
+    "slug": "kt-rolster-vs-drx-2023-07-16",
+    "eventId": "3",
+    "title": "KT Rolster vs DRX | LCK 2023 Summer | July 16th, 2023 | RFT.GG"
+  },
+  "55627": {
+    "matchId": 55627,
+    "slug": "dplus-vs-kt-rolster-2023-07-19",
+    "eventId": "3",
+    "title": "Dplus vs KT Rolster | LCK 2023 Summer | July 19th, 2023 | RFT.GG"
+  },
+  "55633": {
+    "matchId": 55633,
+    "slug": "gen.g-esports-vs-kt-rolster-2023-07-22",
+    "eventId": "3",
+    "title": "Gen.G Esports vs KT Rolster | LCK 2023 Summer | July 22nd, 2023 | RFT.GG"
+  },
+  "55638": {
+    "matchId": 55638,
+    "slug": "freecs-vs-kt-rolster-2023-07-26",
+    "eventId": "3",
+    "title": "Freecs vs KT Rolster | LCK 2023 Summer | July 26th, 2023 | RFT.GG"
+  },
+  "55652": {
+    "matchId": 55652,
+    "slug": "nongshim-redforce-vs-kt-rolster-2023-08-04",
+    "eventId": "3",
+    "title": "Nongshim RedForce vs KT Rolster | LCK 2023 Summer | August 4th, 2023 | RFT.GG"
+  },
+  "55656": {
+    "matchId": 55656,
+    "slug": "kt-rolster-vs-sandbox-gaming-2023-08-06",
+    "eventId": "3",
+    "title": "KT Rolster vs SANDBOX Gaming | LCK 2023 Summer | August 6th, 2023 | RFT.GG"
+  },
+  "55564": {
+    "matchId": 55564,
+    "slug": "kt-rolster-vs-hanwha-life-esports-2023-08-13",
+    "eventId": "3",
+    "title": "KT Rolster vs Hanwha Life Esports | LCK 2023 Summer | August 13th, 2023 | RFT.GG"
+  },
+  "55458": {
+    "matchId": 55458,
+    "slug": "kt-rolster-vs-hanwha-life-esports-2023-08-24",
+    "eventId": "3",
+    "title": "KT Rolster vs Hanwha Life Esports | LCK 2023 Regional Finals | August 24th, 2023 | RFT.GG"
+  },
+  "53636": {
+    "matchId": 53636,
+    "slug": "bilibili-gaming-vs-kt-rolster-2023-10-19",
+    "eventId": "3",
+    "title": "Bilibili Gaming vs KT Rolster | World Championship 2023 | October 19th, 2023 | RFT.GG"
+  },
+  "53644": {
+    "matchId": 53644,
+    "slug": "kt-rolster-vs-dplus-2023-10-20",
+    "eventId": "3",
+    "title": "KT Rolster vs Dplus | World Championship 2023 | October 20th, 2023 | RFT.GG"
+  },
+  "53650": {
+    "matchId": 53650,
+    "slug": "kt-rolster-vs-weibo-gaming-2023-10-22",
+    "eventId": "3",
+    "title": "KT Rolster vs Weibo Gaming | World Championship 2023 | October 22nd, 2023 | RFT.GG"
+  },
+  "53656": {
+    "matchId": 53656,
+    "slug": "kt-rolster-vs-lng-esports-2023-10-27",
+    "eventId": "3",
+    "title": "KT Rolster vs LNG Esports | World Championship 2023 | October 27th, 2023 | RFT.GG"
+  },
+  "53659": {
+    "matchId": 53659,
+    "slug": "kt-rolster-vs-dplus-2023-10-29",
+    "eventId": "3",
+    "title": "KT Rolster vs Dplus | World Championship 2023 | October 29th, 2023 | RFT.GG"
+  },
+  "53664": {
+    "matchId": 53664,
+    "slug": "jd-gaming-vs-kt-rolster-2023-11-04",
+    "eventId": "3",
+    "title": "JD Gaming vs KT Rolster | World Championship 2023 | November 4th, 2023 | RFT.GG"
+  },
+  "62045": {
+    "matchId": 62045,
+    "slug": "nongshim-redforce-vs-gen.g-esports-2024-01-20",
+    "eventId": "3",
+    "title": "Nongshim RedForce vs Gen.G Esports | LCK 2024 Spring | January 20th, 2024 | RFT.GG"
+  },
+  "62051": {
+    "matchId": 62051,
+    "slug": "brion-vs-gen.g-esports-2024-01-25",
+    "eventId": "3",
+    "title": "BRION vs Gen.G Esports | LCK 2024 Spring | January 25th, 2024 | RFT.GG"
+  },
+  "62054": {
+    "matchId": 62054,
+    "slug": "gen.g-esports-vs-dplus-2024-01-27",
+    "eventId": "3",
+    "title": "Gen.G Esports vs Dplus | LCK 2024 Spring | January 27th, 2024 | RFT.GG"
+  },
+  "62062": {
+    "matchId": 62062,
+    "slug": "gen.g-esports-vs-freecs-2024-02-02",
+    "eventId": "3",
+    "title": "Gen.G Esports vs Freecs | LCK 2024 Spring | February 2nd, 2024 | RFT.GG"
+  },
+  "62067": {
+    "matchId": 62067,
+    "slug": "fearx-vs-gen.g-esports-2024-02-04",
+    "eventId": "3",
+    "title": "FearX vs Gen.G Esports | LCK 2024 Spring | February 4th, 2024 | RFT.GG"
+  },
+  "62068": {
+    "matchId": 62068,
+    "slug": "kt-rolster-vs-gen.g-esports-2024-02-14",
+    "eventId": "3",
+    "title": "KT Rolster vs Gen.G Esports | LCK 2024 Spring | February 14th, 2024 | RFT.GG"
+  },
+  "62074": {
+    "matchId": 62074,
+    "slug": "gen.g-esports-vs-hanwha-life-esports-2024-02-17",
+    "eventId": "3",
+    "title": "Gen.G Esports vs Hanwha Life Esports | LCK 2024 Spring | February 17th, 2024 | RFT.GG"
+  },
+  "62081": {
+    "matchId": 62081,
+    "slug": "gen.g-esports-vs-drx-2024-02-22",
+    "eventId": "3",
+    "title": "Gen.G Esports vs DRX | LCK 2024 Spring | February 22nd, 2024 | RFT.GG"
+  },
+  "62085": {
+    "matchId": 62085,
+    "slug": "gen.g-esports-vs-fearx-2024-02-24",
+    "eventId": "3",
+    "title": "Gen.G Esports vs FearX | LCK 2024 Spring | February 24th, 2024 | RFT.GG"
+  },
+  "62088": {
+    "matchId": 62088,
+    "slug": "freecs-vs-gen.g-esports-2024-02-28",
+    "eventId": "3",
+    "title": "Freecs vs Gen.G Esports | LCK 2024 Spring | February 28th, 2024 | RFT.GG"
+  },
+  "62093": {
+    "matchId": 62093,
+    "slug": "gen.g-esports-vs-kt-rolster-2024-03-01",
+    "eventId": "3",
+    "title": "Gen.G Esports vs KT Rolster | LCK 2024 Spring | March 1st, 2024 | RFT.GG"
+  },
+  "62099": {
+    "matchId": 62099,
+    "slug": "hanwha-life-esports-vs-gen.g-esports-2024-03-06",
+    "eventId": "3",
+    "title": "Hanwha Life Esports vs Gen.G Esports | LCK 2024 Spring | March 6th, 2024 | RFT.GG"
+  },
+  "62112": {
+    "matchId": 62112,
+    "slug": "gen.g-esports-vs-nongshim-redforce-2024-03-15",
+    "eventId": "3",
+    "title": "Gen.G Esports vs Nongshim RedForce | LCK 2024 Spring | March 15th, 2024 | RFT.GG"
+  },
+  "62117": {
+    "matchId": 62117,
+    "slug": "dplus-vs-gen.g-esports-2024-03-17",
+    "eventId": "3",
+    "title": "Dplus vs Gen.G Esports | LCK 2024 Spring | March 17th, 2024 | RFT.GG"
+  },
+  "62118": {
+    "matchId": 62118,
+    "slug": "drx-vs-gen.g-esports-2024-03-20",
+    "eventId": "3",
+    "title": "DRX vs Gen.G Esports | LCK 2024 Spring | March 20th, 2024 | RFT.GG"
+  },
+  "62122": {
+    "matchId": 62122,
+    "slug": "gen.g-esports-vs-brion-2024-03-22",
+    "eventId": "3",
+    "title": "Gen.G Esports vs BRION | LCK 2024 Spring | March 22nd, 2024 | RFT.GG"
+  },
+  "62032": {
+    "matchId": 62032,
+    "slug": "gen.g-esports-vs-dplus-2024-04-03",
+    "eventId": "3",
+    "title": "Gen.G Esports vs Dplus | LCK 2024 Spring | April 3rd, 2024 | RFT.GG"
+  },
+  "62034": {
+    "matchId": 62034,
+    "slug": "gen.g-esports-vs-hanwha-life-esports-2024-04-06",
+    "eventId": "3",
+    "title": "Gen.G Esports vs Hanwha Life Esports | LCK 2024 Spring | April 6th, 2024 | RFT.GG"
+  },
+  "60316": {
+    "matchId": 60316,
+    "slug": "gen.g-esports-vs-fnatic-2024-05-08",
+    "eventId": "3",
+    "title": "Gen.G Esports vs Fnatic | MSI 2024 | May 8th, 2024 | RFT.GG"
+  },
+  "60320": {
+    "matchId": 60320,
+    "slug": "gen.g-esports-vs-top-esports-2024-05-11",
+    "eventId": "3",
+    "title": "Gen.G Esports vs Top Esports | MSI 2024 | May 11th, 2024 | RFT.GG"
+  },
+  "60325": {
+    "matchId": 60325,
+    "slug": "gen.g-esports-vs-bilibili-gaming-2024-05-16",
+    "eventId": "3",
+    "title": "Gen.G Esports vs Bilibili Gaming | MSI 2024 | May 16th, 2024 | RFT.GG"
+  },
+  "60328": {
+    "matchId": 60328,
+    "slug": "gen.g-esports-vs-bilibili-gaming-2024-05-19",
+    "eventId": "3",
+    "title": "Gen.G Esports vs Bilibili Gaming | MSI 2024 | May 19th, 2024 | RFT.GG"
+  },
+  "62140": {
+    "matchId": 62140,
+    "slug": "fearx-vs-gen.g-esports-2024-06-14",
+    "eventId": "3",
+    "title": "FearX vs Gen.G Esports | LCK 2024 Summer | June 14th, 2024 | RFT.GG"
+  },
+  "62148": {
+    "matchId": 62148,
+    "slug": "kt-rolster-vs-gen.g-esports-2024-06-20",
+    "eventId": "3",
+    "title": "KT Rolster vs Gen.G Esports | LCK 2024 Summer | June 20th, 2024 | RFT.GG"
+  },
+  "62154": {
+    "matchId": 62154,
+    "slug": "gen.g-esports-vs-brion-2024-06-23",
+    "eventId": "3",
+    "title": "Gen.G Esports vs BRION | LCK 2024 Summer | June 23rd, 2024 | RFT.GG"
+  },
+  "62157": {
+    "matchId": 62157,
+    "slug": "hanwha-life-esports-vs-gen.g-esports-2024-06-26",
+    "eventId": "3",
+    "title": "Hanwha Life Esports vs Gen.G Esports | LCK 2024 Summer | June 26th, 2024 | RFT.GG"
+  },
+  "62161": {
+    "matchId": 62161,
+    "slug": "gen.g-esports-vs-drx-2024-06-28",
+    "eventId": "3",
+    "title": "Gen.G Esports vs DRX | LCK 2024 Summer | June 28th, 2024 | RFT.GG"
+  },
+  "61308": {
+    "matchId": 61308,
+    "slug": "gen.g-esports-vs-top-esports-2024-07-05",
+    "eventId": "3",
+    "title": "Gen.G Esports vs Top Esports | Esports World Cup 2024 | July 5th, 2024 | RFT.GG"
+  },
+  "62169": {
+    "matchId": 62169,
+    "slug": "freecs-vs-gen.g-esports-2024-07-11",
+    "eventId": "3",
+    "title": "Freecs vs Gen.G Esports | LCK 2024 Summer | July 11th, 2024 | RFT.GG"
+  },
+  "62172": {
+    "matchId": 62172,
+    "slug": "gen.g-esports-vs-dplus-2024-07-13",
+    "eventId": "3",
+    "title": "Gen.G Esports vs Dplus | LCK 2024 Summer | July 13th, 2024 | RFT.GG"
+  },
+  "62179": {
+    "matchId": 62179,
+    "slug": "nongshim-redforce-vs-gen.g-esports-2024-07-18",
+    "eventId": "3",
+    "title": "Nongshim RedForce vs Gen.G Esports | LCK 2024 Summer | July 18th, 2024 | RFT.GG"
+  },
+  "62183": {
+    "matchId": 62183,
+    "slug": "gen.g-esports-vs-dplus-2024-07-20",
+    "eventId": "3",
+    "title": "Gen.G Esports vs Dplus | LCK 2024 Summer | July 20th, 2024 | RFT.GG"
+  },
+  "62187": {
+    "matchId": 62187,
+    "slug": "gen.g-esports-vs-brion-2024-07-24",
+    "eventId": "3",
+    "title": "Gen.G Esports vs BRION | LCK 2024 Summer | July 24th, 2024 | RFT.GG"
+  },
+  "62193": {
+    "matchId": 62193,
+    "slug": "freecs-vs-gen.g-esports-2024-07-27",
+    "eventId": "3",
+    "title": "Freecs vs Gen.G Esports | LCK 2024 Summer | July 27th, 2024 | RFT.GG"
+  },
+  "62199": {
+    "matchId": 62199,
+    "slug": "fearx-vs-gen.g-esports-2024-08-01",
+    "eventId": "3",
+    "title": "FearX vs Gen.G Esports | LCK 2024 Summer | August 1st, 2024 | RFT.GG"
+  },
+  "62206": {
+    "matchId": 62206,
+    "slug": "gen.g-esports-vs-drx-2024-08-07",
+    "eventId": "3",
+    "title": "Gen.G Esports vs DRX | LCK 2024 Summer | August 7th, 2024 | RFT.GG"
+  },
+  "62210": {
+    "matchId": 62210,
+    "slug": "kt-rolster-vs-gen.g-esports-2024-08-09",
+    "eventId": "3",
+    "title": "KT Rolster vs Gen.G Esports | LCK 2024 Summer | August 9th, 2024 | RFT.GG"
+  },
+  "62221": {
+    "matchId": 62221,
+    "slug": "nongshim-redforce-vs-gen.g-esports-2024-08-16",
+    "eventId": "3",
+    "title": "Nongshim RedForce vs Gen.G Esports | LCK 2024 Summer | August 16th, 2024 | RFT.GG"
+  },
+  "62225": {
+    "matchId": 62225,
+    "slug": "hanwha-life-esports-vs-gen.g-esports-2024-08-18",
+    "eventId": "3",
+    "title": "Hanwha Life Esports vs Gen.G Esports | LCK 2024 Summer | August 18th, 2024 | RFT.GG"
+  },
+  "62130": {
+    "matchId": 62130,
+    "slug": "gen.g-esports-vs-dplus-2024-08-28",
+    "eventId": "3",
+    "title": "Gen.G Esports vs Dplus | LCK 2024 Summer | August 28th, 2024 | RFT.GG"
+  },
+  "62132": {
+    "matchId": 62132,
+    "slug": "gen.g-esports-vs-hanwha-life-esports-2024-08-31",
+    "eventId": "3",
+    "title": "Gen.G Esports vs Hanwha Life Esports | LCK 2024 Summer | August 31st, 2024 | RFT.GG"
+  },
+  "62135": {
+    "matchId": 62135,
+    "slug": "gen.g-esports-vs-hanwha-life-esports-2024-09-08",
+    "eventId": "3",
+    "title": "Gen.G Esports vs Hanwha Life Esports | LCK 2024 Summer | September 8th, 2024 | RFT.GG"
+  },
+  "60331": {
+    "matchId": 60331,
+    "slug": "gen.g-esports-vs-weibo-gaming-2024-10-03",
+    "eventId": "3",
+    "title": "Gen.G Esports vs Weibo Gaming | World Championship 2024 | October 3rd, 2024 | RFT.GG"
+  },
+  "60338": {
+    "matchId": 60338,
+    "slug": "gen.g-esports-vs-top-esports-2024-10-04",
+    "eventId": "3",
+    "title": "Gen.G Esports vs Top Esports | World Championship 2024 | October 4th, 2024 | RFT.GG"
+  },
+  "60346": {
+    "matchId": 60346,
+    "slug": "hanwha-life-esports-vs-gen.g-esports-2024-10-05",
+    "eventId": "3",
+    "title": "Hanwha Life Esports vs Gen.G Esports | World Championship 2024 | October 5th, 2024 | RFT.GG"
+  },
+  "60365": {
+    "matchId": 60365,
+    "slug": "gen.g-esports-vs-flyquest-2024-10-20",
+    "eventId": "3",
+    "title": "Gen.G Esports vs FlyQuest | World Championship 2024 | October 20th, 2024 | RFT.GG"
+  },
+  "12673": {
+    "matchId": 12673,
+    "slug": "gen.g-esports-vs-dplus-2024-12-01",
+    "eventId": "3",
+    "title": "Gen.G Esports vs Dplus | KeSPA Cup 2024 | December 1st, 2024 | RFT.GG"
+  },
+  "12676": {
+    "matchId": 12676,
+    "slug": "vietnam-vs-gen.g-esports-2024-12-01",
+    "eventId": "3",
+    "title": "Vietnam vs Gen.G Esports | KeSPA Cup 2024 | December 1st, 2024 | RFT.GG"
+  },
+  "12678": {
+    "matchId": 12678,
+    "slug": "gen.g-esports-vs-t1-2024-12-01",
+    "eventId": "3",
+    "title": "Gen.G Esports vs T1 | KeSPA Cup 2024 | December 1st, 2024 | RFT.GG"
+  },
+  "12687": {
+    "matchId": 12687,
+    "slug": "hanwha-life-esports-vs-gen.g-esports-2024-12-03",
+    "eventId": "3",
+    "title": "Hanwha Life Esports vs Gen.G Esports | KeSPA Cup 2024 | December 3rd, 2024 | RFT.GG"
+  },
+  "12691": {
+    "matchId": 12691,
+    "slug": "gen.g-esports-vs-nongshim-redforce-2024-12-03",
+    "eventId": "3",
+    "title": "Gen.G Esports vs Nongshim RedForce | KeSPA Cup 2024 | December 3rd, 2024 | RFT.GG"
+  },
+  "12696": {
+    "matchId": 12696,
+    "slug": "brion-vs-gen.g-esports-2024-12-04",
+    "eventId": "3",
+    "title": "BRION vs Gen.G Esports | KeSPA Cup 2024 | December 4th, 2024 | RFT.GG"
+  },
+  "12704": {
+    "matchId": 12704,
+    "slug": "gen.g-esports-vs-dplus-2024-12-07",
+    "eventId": "3",
+    "title": "Gen.G Esports vs Dplus | KeSPA Cup 2024 | December 7th, 2024 | RFT.GG"
+  },
+  "14020": {
+    "matchId": 14020,
+    "slug": "fearx-vs-gen.g-esports-2025-01-19",
+    "eventId": "3",
+    "title": "FEARX vs Gen.G Esports | LCK 2025 Cup | January 19th, 2025 | RFT.GG"
+  },
+  "14023": {
+    "matchId": 14023,
+    "slug": "brion-vs-gen.g-esports-2025-01-23",
+    "eventId": "3",
+    "title": "BRION vs Gen.G Esports | LCK 2025 Cup | January 23rd, 2025 | RFT.GG"
+  },
+  "14028": {
+    "matchId": 14028,
+    "slug": "gen.g-esports-vs-freecs-2025-01-25",
+    "eventId": "3",
+    "title": "Gen.G Esports vs Freecs | LCK 2025 Cup | January 25th, 2025 | RFT.GG"
+  },
+  "14033": {
+    "matchId": 14033,
+    "slug": "t1-vs-gen.g-esports-2025-02-01",
+    "eventId": "3",
+    "title": "T1 vs Gen.G Esports | LCK 2025 Cup | February 1st, 2025 | RFT.GG"
+  },
+  "14046": {
+    "matchId": 14046,
+    "slug": "nongshim-redforce-vs-gen.g-esports-2025-02-20",
+    "eventId": "3",
+    "title": "Nongshim RedForce vs Gen.G Esports | LCK 2025 Cup | February 20th, 2025 | RFT.GG"
+  },
+  "14047": {
+    "matchId": 14047,
+    "slug": "dplus-vs-gen.g-esports-2025-02-22",
+    "eventId": "3",
+    "title": "Dplus vs Gen.G Esports | LCK 2025 Cup | February 22nd, 2025 | RFT.GG"
+  },
+  "14063": {
+    "matchId": 14063,
+    "slug": "t1-vs-gen.g-esports-2025-04-06",
+    "eventId": "3",
+    "title": "T1 vs Gen.G Esports | LCK 2025 Season | April 6th, 2025 | RFT.GG"
+  },
+  "14069": {
+    "matchId": 14069,
+    "slug": "gen.g-esports-vs-nongshim-redforce-2025-04-11",
+    "eventId": "3",
+    "title": "Gen.G Esports vs Nongshim RedForce | LCK 2025 Season | April 11th, 2025 | RFT.GG"
+  },
+  "14072": {
+    "matchId": 14072,
+    "slug": "dplus-vs-gen.g-esports-2025-04-13",
+    "eventId": "3",
+    "title": "Dplus vs Gen.G Esports | LCK 2025 Season | April 13th, 2025 | RFT.GG"
+  },
+  "14075": {
+    "matchId": 14075,
+    "slug": "fearx-vs-gen.g-esports-2025-04-16",
+    "eventId": "3",
+    "title": "FEARX vs Gen.G Esports | LCK 2025 Season | April 16th, 2025 | RFT.GG"
+  },
+  "14080": {
+    "matchId": 14080,
+    "slug": "gen.g-esports-vs-brion-2025-04-19",
+    "eventId": "3",
+    "title": "Gen.G Esports vs BRION | LCK 2025 Season | April 19th, 2025 | RFT.GG"
+  },
+  "14086": {
+    "matchId": 14086,
+    "slug": "gen.g-esports-vs-freecs-2025-04-24",
+    "eventId": "3",
+    "title": "Gen.G Esports vs Freecs | LCK 2025 Season | April 24th, 2025 | RFT.GG"
+  },
+  "14091": {
+    "matchId": 14091,
+    "slug": "drx-vs-gen.g-esports-2025-04-26",
+    "eventId": "3",
+    "title": "DRX vs Gen.G Esports | LCK 2025 Season | April 26th, 2025 | RFT.GG"
+  },
+  "14096": {
+    "matchId": 14096,
+    "slug": "gen.g-esports-vs-kt-rolster-2025-05-01",
+    "eventId": "3",
+    "title": "Gen.G Esports vs KT Rolster | LCK 2025 Season | May 1st, 2025 | RFT.GG"
+  },
+  "14100": {
+    "matchId": 14100,
+    "slug": "gen.g-esports-vs-dplus-2025-05-03",
+    "eventId": "3",
+    "title": "Gen.G Esports vs Dplus | LCK 2025 Season | May 3rd, 2025 | RFT.GG"
+  },
+  "14107": {
+    "matchId": 14107,
+    "slug": "nongshim-redforce-vs-gen.g-esports-2025-05-08",
+    "eventId": "3",
+    "title": "Nongshim RedForce vs Gen.G Esports | LCK 2025 Season | May 8th, 2025 | RFT.GG"
+  },
+  "14111": {
+    "matchId": 14111,
+    "slug": "gen.g-esports-vs-fearx-2025-05-10",
+    "eventId": "3",
+    "title": "Gen.G Esports vs FEARX | LCK 2025 Season | May 10th, 2025 | RFT.GG"
+  },
+  "14119": {
+    "matchId": 14119,
+    "slug": "freecs-vs-gen.g-esports-2025-05-16",
+    "eventId": "3",
+    "title": "Freecs vs Gen.G Esports | LCK 2025 Season | May 16th, 2025 | RFT.GG"
+  },
+  "14123": {
+    "matchId": 14123,
+    "slug": "gen.g-esports-vs-t1-2025-05-18",
+    "eventId": "3",
+    "title": "Gen.G Esports vs T1 | LCK 2025 Season | May 18th, 2025 | RFT.GG"
+  },
+  "14128": {
+    "matchId": 14128,
+    "slug": "gen.g-esports-vs-drx-2025-05-23",
+    "eventId": "3",
+    "title": "Gen.G Esports vs DRX | LCK 2025 Season | May 23rd, 2025 | RFT.GG"
+  },
+  "14137": {
+    "matchId": 14137,
+    "slug": "kt-rolster-vs-gen.g-esports-2025-05-29",
+    "eventId": "3",
+    "title": "KT Rolster vs Gen.G Esports | LCK 2025 Season | May 29th, 2025 | RFT.GG"
+  },
+  "14141": {
+    "matchId": 14141,
+    "slug": "brion-vs-gen.g-esports-2025-05-31",
+    "eventId": "3",
+    "title": "BRION vs Gen.G Esports | LCK 2025 Season | May 31st, 2025 | RFT.GG"
+  },
+  "12724": {
+    "matchId": 12724,
+    "slug": "gen.g-esports-vs-g2-esports-2025-07-02",
+    "eventId": "3",
+    "title": "Gen.G Esports vs G2 Esports | MSI 2025 | July 2nd, 2025 | RFT.GG"
+  },
+  "12729": {
+    "matchId": 12729,
+    "slug": "gen.g-esports-vs-anyone-s-legend-2025-07-04",
+    "eventId": "3",
+    "title": "Gen.G Esports vs Anyone&#x27;s Legend | MSI 2025 | July 4th, 2025 | RFT.GG"
+  },
+  "12734": {
+    "matchId": 12734,
+    "slug": "gen.g-esports-vs-t1-2025-07-10",
+    "eventId": "3",
+    "title": "Gen.G Esports vs T1 | MSI 2025 | July 10th, 2025 | RFT.GG"
+  },
+  "12737": {
+    "matchId": 12737,
+    "slug": "gen.g-esports-vs-t1-2025-07-13",
+    "eventId": "3",
+    "title": "Gen.G Esports vs T1 | MSI 2025 | July 13th, 2025 | RFT.GG"
+  },
+  "13423": {
+    "matchId": 13423,
+    "slug": "gen.g-esports-vs-flyquest-2025-07-18",
+    "eventId": "3",
+    "title": "Gen.G Esports vs FlyQuest | Esports World Cup 2025 | July 18th, 2025 | RFT.GG"
+  },
+  "13425": {
+    "matchId": 13425,
+    "slug": "gen.g-esports-vs-g2-esports-2025-07-19",
+    "eventId": "3",
+    "title": "Gen.G Esports vs G2 Esports | Esports World Cup 2025 | July 19th, 2025 | RFT.GG"
+  },
+  "13427": {
+    "matchId": 13427,
+    "slug": "gen.g-esports-vs-anyone-s-legend-2025-07-20",
+    "eventId": "3",
+    "title": "Gen.G Esports vs AG.AL International | Esports World Cup 2025 | July 20th, 2025 | RFT.GG"
+  },
+  "14149": {
+    "matchId": 14149,
+    "slug": "t1-vs-gen.g-esports-2025-07-25",
+    "eventId": "3",
+    "title": "T1 vs Gen.G Esports | LCK 2025 Season | July 25th, 2025 | RFT.GG"
+  },
+  "14159": {
+    "matchId": 14159,
+    "slug": "gen.g-esports-vs-kt-rolster-2025-08-01",
+    "eventId": "3",
+    "title": "Gen.G Esports vs KT Rolster | LCK 2025 Season | August 1st, 2025 | RFT.GG"
+  },
+  "14164": {
+    "matchId": 14164,
+    "slug": "nongshim-redforce-vs-gen.g-esports-2025-08-03",
+    "eventId": "3",
+    "title": "Nongshim RedForce vs Gen.G Esports | LCK 2025 Season | August 3rd, 2025 | RFT.GG"
+  },
+  "14168": {
+    "matchId": 14168,
+    "slug": "gen.g-esports-vs-t1-2025-08-07",
+    "eventId": "3",
+    "title": "Gen.G Esports vs T1 | LCK 2025 Season | August 7th, 2025 | RFT.GG"
+  },
+  "14173": {
+    "matchId": 14173,
+    "slug": "kt-rolster-vs-gen.g-esports-2025-08-10",
+    "eventId": "3",
+    "title": "KT Rolster vs Gen.G Esports | LCK 2025 Season | August 10th, 2025 | RFT.GG"
+  },
+  "14177": {
+    "matchId": 14177,
+    "slug": "gen.g-esports-vs-nongshim-redforce-2025-08-14",
+    "eventId": "3",
+    "title": "Gen.G Esports vs Nongshim RedForce | LCK 2025 Season | August 14th, 2025 | RFT.GG"
+  },
+  "14186": {
+    "matchId": 14186,
+    "slug": "gen.g-esports-vs-nongshim-redforce-2025-08-20",
+    "eventId": "3",
+    "title": "Gen.G Esports vs Nongshim RedForce | LCK 2025 Season | August 20th, 2025 | RFT.GG"
+  },
+  "14198": {
+    "matchId": 14198,
+    "slug": "gen.g-esports-vs-kt-rolster-2025-08-28",
+    "eventId": "3",
+    "title": "Gen.G Esports vs KT Rolster | LCK 2025 Season | August 28th, 2025 | RFT.GG"
+  },
+  "14201": {
+    "matchId": 14201,
+    "slug": "t1-vs-gen.g-esports-2025-08-30",
+    "eventId": "3",
+    "title": "T1 vs Gen.G Esports | LCK 2025 Season | August 30th, 2025 | RFT.GG"
+  },
+  "14212": {
+    "matchId": 14212,
+    "slug": "gen.g-esports-vs-kt-rolster-2025-09-13",
+    "eventId": "3",
+    "title": "Gen.G Esports vs KT Rolster | LCK 2025 Season | September 13th, 2025 | RFT.GG"
+  },
+  "14217": {
+    "matchId": 14217,
+    "slug": "gen.g-esports-vs-t1-2025-09-21",
+    "eventId": "3",
+    "title": "Gen.G Esports vs T1 | LCK 2025 Season | September 21st, 2025 | RFT.GG"
+  },
+  "14218": {
+    "matchId": 14218,
+    "slug": "kt-rolster-vs-gen.g-esports-2025-09-27",
+    "eventId": "3",
+    "title": "KT Rolster vs Gen.G Esports | LCK 2025 Season | September 27th, 2025 | RFT.GG"
+  },
+  "12745": {
+    "matchId": 12745,
+    "slug": "gen.g-esports-vs-psg-talon-2025-10-15",
+    "eventId": "3",
+    "title": "Gen.G Esports vs PSG Talon | World Championship 2025 | October 15th, 2025 | RFT.GG"
+  },
+  "12751": {
+    "matchId": 12751,
+    "slug": "anyone-s-legend-vs-gen.g-esports-2025-10-16",
+    "eventId": "3",
+    "title": "Anyone&#x27;s Legend vs Gen.G Esports | World Championship 2025 | October 16th, 2025 | RFT.GG"
+  },
+  "12757": {
+    "matchId": 12757,
+    "slug": "gen.g-esports-vs-t1-2025-10-18",
+    "eventId": "3",
+    "title": "Gen.G Esports vs T1 | World Championship 2025 | October 18th, 2025 | RFT.GG"
+  },
+  "12765": {
+    "matchId": 12765,
+    "slug": "gen.g-esports-vs-top-esports-2025-10-23",
+    "eventId": "3",
+    "title": "Gen.G Esports vs Top Esports | World Championship 2025 | October 23rd, 2025 | RFT.GG"
+  },
+  "12775": {
+    "matchId": 12775,
+    "slug": "gen.g-esports-vs-kt-rolster-2025-11-01",
+    "eventId": "3",
+    "title": "Gen.G Esports vs KT Rolster | World Championship 2025 | November 1st, 2025 | RFT.GG"
+  },
+  "66850": {
+    "matchId": 66850,
+    "slug": "cloud9-vs-gen.g-esports-2025-12-06",
+    "eventId": "3",
+    "title": "Cloud9 vs Gen.G Esports | KeSPA Cup 2025 | December 6th, 2025 | RFT.GG"
+  },
+  "66852": {
+    "matchId": 66852,
+    "slug": "gen.g-esports-vs-vietnam-2025-12-06",
+    "eventId": "3",
+    "title": "Gen.G Esports vs Vietnam | KeSPA Cup 2025 | December 6th, 2025 | RFT.GG"
+  },
+  "66859": {
+    "matchId": 66859,
+    "slug": "fearx-vs-gen.g-esports-2025-12-07",
+    "eventId": "3",
+    "title": "FEARX vs Gen.G Esports | KeSPA Cup 2025 | December 7th, 2025 | RFT.GG"
+  },
+  "9495": {
+    "matchId": 9495,
+    "slug": "gen.g-esports-vs-drx-2026-01-15",
+    "eventId": "3",
+    "title": "Gen.G Esports vs DRX | LCK 2026 Cup | January 15th, 2026 | RFT.GG"
+  },
+  "9509": {
+    "matchId": 9509,
+    "slug": "gen.g-esports-vs-kt-rolster-2026-01-17",
+    "eventId": "3",
+    "title": "Gen.G Esports vs KT Rolster | LCK 2026 Cup | January 17th, 2026 | RFT.GG"
+  },
+  "9557": {
+    "matchId": 9557,
+    "slug": "fearx-vs-gen.g-esports-2026-01-22",
+    "eventId": "3",
+    "title": "FEARX vs Gen.G Esports | LCK 2026 Cup | January 22nd, 2026 | RFT.GG"
+  },
+  "9570": {
+    "matchId": 9570,
+    "slug": "dplus-vs-gen.g-esports-2026-01-24",
+    "eventId": "3",
+    "title": "Dplus vs Gen.G Esports | LCK 2026 Cup | January 24th, 2026 | RFT.GG"
+  },
+  "9728": {
+    "matchId": 9728,
+    "slug": "gen.g-esports-vs-dplus-2026-02-14",
+    "eventId": "3",
+    "title": "Gen.G Esports vs Dplus | LCK 2026 Cup | February 14th, 2026 | RFT.GG"
+  },
+  "9744": {
+    "matchId": 9744,
+    "slug": "gen.g-esports-vs-fearx-2026-02-21",
+    "eventId": "3",
+    "title": "Gen.G Esports vs FEARX | LCK 2026 Cup | February 21st, 2026 | RFT.GG"
+  },
+  "9772": {
+    "matchId": 9772,
+    "slug": "gen.g-esports-vs-fearx-2026-03-01",
+    "eventId": "3",
+    "title": "Gen.G Esports vs FEARX | LCK 2026 Cup | March 1st, 2026 | RFT.GG"
+  },
+  "12003": {
+    "matchId": 12003,
+    "slug": "gen.g-esports-vs-jd-gaming-2026-03-17",
+    "eventId": "3",
+    "title": "Gen.G Esports vs JD Gaming | First Stand 2026 | March 17th, 2026 | RFT.GG"
+  },
+  "12077": {
+    "matchId": 12077,
+    "slug": "gen.g-esports-vs-lyon-2026-03-19",
+    "eventId": "3",
+    "title": "Gen.G Esports vs LYON | First Stand 2026 | March 19th, 2026 | RFT.GG"
+  },
+  "10207": {
+    "matchId": 10207,
+    "slug": "gen.g-esports-vs-g2-esports-2026-03-21",
+    "eventId": "3",
+    "title": "Gen.G Esports vs G2 Esports | First Stand 2026 | March 21st, 2026 | RFT.GG"
+  },
+  "12544": {
+    "matchId": 12544,
+    "slug": "gen.g-esports-vs-kt-rolster-2026-04-03",
+    "eventId": "3",
+    "title": "Gen.G Esports vs KT Rolster | LCK 2026 Season | April 3rd, 2026 | RFT.GG"
+  },
+  "12550": {
+    "matchId": 12550,
+    "slug": "gen.g-esports-vs-fearx-2026-04-05",
+    "eventId": "3",
+    "title": "Gen.G Esports vs FEARX | LCK 2026 Season | April 5th, 2026 | RFT.GG"
+  },
+  "12552": {
+    "matchId": 12552,
+    "slug": "t1-vs-gen.g-esports-2026-04-08",
+    "eventId": "3",
+    "title": "T1 vs Gen.G Esports | LCK 2026 Season | April 8th, 2026 | RFT.GG"
+  },
+  "12558": {
+    "matchId": 12558,
+    "slug": "dplus-vs-gen.g-esports-2026-04-11",
+    "eventId": "3",
+    "title": "Dplus vs Gen.G Esports | LCK 2026 Season | April 11th, 2026 | RFT.GG"
+  },
+  "12563": {
+    "matchId": 12563,
+    "slug": "brion-vs-gen.g-esports-2026-04-16",
+    "eventId": "3",
+    "title": "BRION vs Gen.G Esports | LCK 2026 Season | April 16th, 2026 | RFT.GG"
+  },
+  "12574": {
+    "matchId": 12574,
+    "slug": "gen.g-esports-vs-soopers-2026-04-23",
+    "eventId": "3",
+    "title": "Gen.G Esports vs SOOPers | LCK 2026 Season | April 23rd, 2026 | RFT.GG"
+  },
+  "12580": {
+    "matchId": 12580,
+    "slug": "nongshim-redforce-vs-gen.g-esports-2026-04-26",
+    "eventId": "3",
+    "title": "Nongshim RedForce vs Gen.G Esports | LCK 2026 Season | April 26th, 2026 | RFT.GG"
+  },
+  "12583": {
+    "matchId": 12583,
+    "slug": "gen.g-esports-vs-drx-2026-04-30",
+    "eventId": "3",
+    "title": "Gen.G Esports vs DRX | LCK 2026 Season | April 30th, 2026 | RFT.GG"
+  },
+  "12587": {
+    "matchId": 12587,
+    "slug": "gen.g-esports-vs-dplus-2026-05-02",
+    "eventId": "3",
+    "title": "Gen.G Esports vs Dplus | LCK 2026 Season | May 2nd, 2026 | RFT.GG"
+  },
+  "12590": {
+    "matchId": 12590,
+    "slug": "gen.g-esports-vs-nongshim-redforce-2026-05-06",
+    "eventId": "3",
+    "title": "Gen.G Esports vs Nongshim RedForce | LCK 2026 Season | May 6th, 2026 | RFT.GG"
+  },
+  "12595": {
+    "matchId": 12595,
+    "slug": "drx-vs-gen.g-esports-2026-05-08",
+    "eventId": "3",
+    "title": "DRX vs Gen.G Esports | LCK 2026 Season | May 8th, 2026 | RFT.GG"
+  },
+  "12602": {
+    "matchId": 12602,
+    "slug": "fearx-vs-gen.g-esports-2026-05-14",
+    "eventId": "3",
+    "title": "FEARX vs Gen.G Esports | LCK 2026 Season | May 14th, 2026 | RFT.GG"
+  },
+  "12606": {
+    "matchId": 12606,
+    "slug": "gen.g-esports-vs-t1-2026-05-16",
+    "eventId": "3",
+    "title": "Gen.G Esports vs T1 | LCK 2026 Season | May 16th, 2026 | RFT.GG"
+  },
+  "12615": {
+    "matchId": 12615,
+    "slug": "kt-rolster-vs-gen.g-esports-2026-05-22",
+    "eventId": "3",
+    "title": "KT Rolster vs Gen.G Esports | LCK 2026 Season | May 22nd, 2026 | RFT.GG"
+  },
+  "12618": {
+    "matchId": 12618,
+    "slug": "soopers-vs-gen.g-esports-2026-05-24",
+    "eventId": "3",
+    "title": "SOOPers vs Gen.G Esports | LCK 2026 Season | May 24th, 2026 | RFT.GG"
+  },
+  "12625": {
+    "matchId": 12625,
+    "slug": "gen.g-esports-vs-brion-2026-05-29",
+    "eventId": "3",
+    "title": "Gen.G Esports vs BRION | LCK 2026 Season | May 29th, 2026 | RFT.GG"
+  },
+  "68802": {
+    "matchId": 68802,
+    "slug": "gen.g-esports-vs-kt-rolster-2026-06-13",
+    "eventId": "3",
+    "title": "Gen.G Esports vs KT Rolster | LCK 2026 Road to MSI | June 13th, 2026 | RFT.GG"
+  },
+  "68799": {
+    "matchId": 68799,
+    "slug": "t1-vs-gen.g-esports-2026-06-14",
+    "eventId": "3",
+    "title": "T1 vs Gen.G Esports | LCK 2026 Road to MSI | June 14th, 2026 | RFT.GG"
+  },
+  "12392": {
+    "matchId": 12392,
+    "slug": "gen.g-esports-vs-karmine-corp-2026-07-15",
+    "eventId": "3",
+    "title": "Gen.G Esports vs Karmine Corp | Esports World Cup 2026 | July 15th, 2026 | RFT.GG"
+  },
+  "12394": {
+    "matchId": 12394,
+    "slug": "sentinels-vs-gen.g-esports-2026-07-16",
+    "eventId": "3",
+    "title": "Sentinels vs Gen.G Esports | Esports World Cup 2026 | July 16th, 2026 | RFT.GG"
+  },
+  "12408": {
+    "matchId": 12408,
+    "slug": "gen.g-esports-vs-jd-gaming-2026-07-17",
+    "eventId": "3",
+    "title": "Gen.G Esports vs JD Gaming | Esports World Cup 2026 | July 17th, 2026 | RFT.GG"
+  },
+  "12411": {
+    "matchId": 12411,
+    "slug": "gen.g-esports-vs-dplus-2026-07-18",
+    "eventId": "3",
+    "title": "Gen.G Esports vs Dplus | Esports World Cup 2026 | July 18th, 2026 | RFT.GG"
+  },
+  "12413": {
+    "matchId": 12413,
+    "slug": "t1-vs-gen.g-esports-2026-07-19",
+    "eventId": "3",
+    "title": "T1 vs Gen.G Esports | Esports World Cup 2026 | July 19th, 2026 | RFT.GG"
+  },
+  "69232": {
+    "matchId": 69232,
+    "slug": "fearx-vs-gen.g-esports-2026-07-27",
+    "eventId": "3",
+    "title": "FEARX vs Gen.G Esports | KeSPA Cup 2026 | July 27th, 2026 | RFT.GG"
+  },
+  "69234": {
+    "matchId": 69234,
+    "slug": "kt-rolster-vs-gen.g-esports-2026-07-27",
+    "eventId": "3",
+    "title": "KT Rolster vs Gen.G Esports | KeSPA Cup 2026 | July 27th, 2026 | RFT.GG"
+  },
+  "69472": {
+    "matchId": 69472,
+    "slug": "gen.g-esports-vs-t1-2026-07-31",
+    "eventId": "3",
+    "title": "Gen.G Esports vs T1 | LCK 2026 Season | July 31st, 2026 | RFT.GG"
+  },
+  "69475": {
+    "matchId": 69475,
+    "slug": "gen.g-esports-vs-dplus-2026-08-01",
+    "eventId": "3",
+    "title": "Gen.G Esports vs Dplus | LCK 2026 Season | August 1st, 2026 | RFT.GG"
+  },
+  "69535": {
+    "matchId": 69535,
+    "slug": "gen.g-esports-vs-soopers-2026-08-04",
+    "eventId": "3",
+    "title": "Gen.G Esports vs SOOPers | KeSPA Cup 2026 | August 4th, 2026 | RFT.GG"
+  },
+  "69482": {
+    "matchId": 69482,
+    "slug": "kt-rolster-vs-gen.g-esports-2026-08-07",
+    "eventId": "3",
+    "title": "KT Rolster vs Gen.G Esports | LCK 2026 Season | August 7th, 2026 | RFT.GG"
+  },
+  "69249": {
+    "matchId": 69249,
+    "slug": "gen.g-esports-vs-soopers-2026-08-10",
+    "eventId": "3",
+    "title": "Gen.G Esports vs SOOPers | KeSPA Cup 2026 | August 10th, 2026 | RFT.GG"
+  },
+  "69496": {
+    "matchId": 69496,
+    "slug": "t1-vs-gen.g-esports-2026-08-16",
+    "eventId": "3",
+    "title": "T1 vs Gen.G Esports | LCK 2026 Season | August 16th, 2026 | RFT.GG"
+  },
+  "69498": {
+    "matchId": 69498,
+    "slug": "gen.g-esports-vs-kt-rolster-2026-08-19",
+    "eventId": "3",
+    "title": "Gen.G Esports vs KT Rolster | LCK 2026 Season | August 19th, 2026 | RFT.GG"
+  },
+  "69504": {
+    "matchId": 69504,
+    "slug": "dplus-vs-gen.g-esports-2026-08-22",
+    "eventId": "3",
+    "title": "Dplus vs Gen.G Esports | LCK 2026 Season | August 22nd, 2026 | RFT.GG"
+  },
+  "69371": {
+    "matchId": 69371,
+    "slug": "gen.g-esports-vs-kt-rolster-2026-09-01",
+    "eventId": "3",
+    "title": "Gen.G Esports vs KT Rolster | LCK 2026 Season | September 1st, 2026 | RFT.GG"
+  }
+}
